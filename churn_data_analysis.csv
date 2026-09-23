@@ -1,0 +1,601 @@
+subscription_id,customerid,subscription_start_date,subscription_type,renewal_date,plan_type,contract_type,cancellation_date,cancellation_reason,monthly_charges,cltv,churn_score,customer_name,country,state,gender,dob,support_id,complaint_date,escalations,csat_score,churn_flag,complaint_count,age,age_group,churn_risk
+601,1824-AZJHH,2025-06-03,Paid,2025-08-02,Premium,Monthly,,,42.02,3439.0,44,Rakesh Iyer,India,Chandigarh,Male,1962-10-19,2.0,2026-06-24,N,87.0,0,1,63,61-70,Low
+602,9195-GYWYT,2022-04-11,Referral,2022-05-11,Basic,Monthly,,,12.92,2136.0,35,Kavita Pandey,India,Goa,Female,1979-12-16,7.0,2025-06-12,Y,95.0,0,1,42,41-50,Low
+603,5514-DCNDM,2021-06-13,Paid,2021-07-13,Standard,Monthly,2024-09-24,Too expensive,24.51,460.0,67,Jaya Malhotra,India,Karnataka,Female,1996-03-20,9.0,2023-10-07,Y,9.0,1,1,25,21-30,Medium
+604,5925-UGYCB,2021-10-08,Referral,2021-11-07,Basic,Monthly,2023-02-24,Service issue,11.32,270.0,77,Om Bhat,India,Delhi,Male,1975-11-20,10.0,2023-02-23,Y,16.0,1,1,46,41-50,High
+605,4374-YXWCV,2024-05-04,Trial,2024-10-31,Standard,Monthly,,,22.79,1122.0,50,Varun Chopra,India,West Bengal,Male,1996-06-21,14.0,2026-04-20,N,74.0,0,1,28,21-30,Medium
+606,5168-NJCGU,2022-02-26,Paid,2025-02-26,Standard,Annual,2022-08-20,Poor customer support,16.91,664.0,91,Sneha Yadav,India,Bihar,Female,1996-03-01,15.0,2022-07-22,N,64.0,1,1,26,21-30,High
+607,9560-NMHES,2021-06-05,Paid,2023-06-05,Premium,Annual,2023-02-04,Not using service,28.18,728.0,97,Myra Patel,India,Tamil Nadu,Female,1968-09-17,17.0,2021-07-27,N,26.0,1,1,53,51-60,High
+608,7668-SJTAX,2026-05-17,Paid,2026-12-31,Basic,Annual,,,10.58,1533.0,2,Ashok Rathore,India,Telangana,Male,1985-07-08,19.0,2026-07-10,N,30.0,0,1,41,41-50,Low
+609,8317-DWKWS,2024-12-09,Referral,2026-12-09,Premium,Annual,,,48.21,892.0,2,Ishaan Mukherjee,India,West Bengal,Male,2003-05-23,21.0,2025-04-01,N,26.0,0,1,22,21-30,Low
+610,5038-HBHUC,2025-12-17,Organic,2026-02-15,Basic,Monthly,,,12.67,2996.0,47,Kunal Yadav,India,Delhi,Male,2002-10-16,24.0,2026-07-20,N,22.0,0,1,23,21-30,Low
+611,6932-GTZYG,2022-05-23,Referral,2023-05-23,Premium,Annual,2022-10-25,Other,31.02,629.0,90,Nisha Mukherjee,India,Odisha,Female,2001-06-07,25.0,2022-09-20,Y,94.0,1,1,21,21-30,High
+612,9641-HACYW,2020-01-29,Referral,2020-06-27,Premium,Monthly,,,30.92,2953.0,5,Yash Reddy,India,Karnataka,Male,1984-08-23,26.0,2023-04-28,Y,77.0,0,1,35,31-40,Low
+613,9355-URHRP,2024-05-22,Paid,2024-07-21,Standard,Monthly,,,19.44,1100.0,50,Reyansh Iyer,India,Madhya Pradesh,Male,1986-10-14,,,,,0,0,38,31-40,Medium
+614,1790-HGGTQ,2025-07-15,Organic,2026-12-31,Premium,Annual,,,49.9,335.0,42,Pradeep Mehta,India,Telangana,Male,1996-07-03,28.0,2026-07-31,Y,26.0,0,1,29,21-30,Low
+615,8856-ACHFP,2020-10-23,Trial,2021-10-23,Standard,Annual,2023-11-19,Poor customer support,14.96,356.0,100,Aishwarya Joshi,India,Bihar,Female,1960-04-05,30.0,2022-12-12,Y,41.0,1,1,61,61-70,High
+616,9105-XYREG,2022-07-22,Paid,2025-07-22,Standard,Annual,2025-01-30,Poor customer support,22.49,427.0,92,Sneha Patel,India,Goa,Female,2003-08-23,31.0,2023-07-06,N,10.0,1,1,19,11-20,High
+617,8701-FBSCF,2024-07-03,Paid,2024-11-30,Premium,Monthly,,,27.71,607.0,5,Raghav Reddy,India,Rajasthan,Male,1991-03-23,33.0,2026-05-22,N,74.0,0,1,33,31-40,Low
+618,6868-XUUSL,2026-02-22,Referral,2026-03-24,Standard,Monthly,,,24.83,1687.0,18,Sneha Agarwal,India,Rajasthan,Female,1978-10-30,35.0,2026-08-07,N,8.0,0,1,47,41-50,Low
+619,9224-DCTGS,2021-10-18,Organic,2022-04-16,Basic,Monthly,,,6.33,2084.0,21,Anika Chatterjee,India,Delhi,Female,1976-11-30,39.0,2024-08-21,Y,31.0,0,1,45,41-50,Low
+620,9086-KXDEJ,2022-09-19,Paid,2023-01-17,Standard,Monthly,2025-11-14,Service issue,21.27,395.0,82,Reyansh Naidu,India,Uttar Pradesh,Male,1979-06-08,40.0,2025-08-09,N,1.0,1,1,43,41-50,High
+621,0832-CWPJB,2020-11-15,Trial,2021-11-15,Basic,Annual,2024-07-03,Service issue,11.17,548.0,78,Suresh Singh,India,Telangana,Male,1969-06-30,43.0,2024-06-03,N,85.0,1,1,51,51-60,High
+622,2442-TBMUT,2019-09-24,Trial,2019-12-23,Standard,Monthly,,,21.74,3789.0,22,Pradeep Singh,India,Karnataka,Male,1982-08-28,44.0,2022-07-17,N,16.0,0,1,37,31-40,Low
+623,9173-PVZEH,2023-05-19,Organic,2024-05-19,Standard,Annual,2024-01-21,Not using service,20.57,767.0,100,Kabir Sengupta,India,Maharashtra,Male,1971-02-03,45.0,2023-09-11,N,74.0,1,1,52,51-60,High
+624,0634-RHGQM,2022-10-27,Paid,2024-10-27,Basic,Annual,,,8.8,2726.0,32,Kavita Desai,India,Maharashtra,Female,1972-04-29,46.0,2024-11-21,N,58.0,0,1,50,41-50,Low
+625,8785-LADJF,2020-08-19,Partner,2021-08-19,Basic,Annual,,,6.59,5652.0,8,Diya Iyer,India,Jharkhand,Female,1993-12-26,48.0,2023-10-26,N,79.0,0,1,27,21-30,Low
+626,9446-GJBYP,2023-01-21,Paid,2023-02-20,Basic,Monthly,,,6.05,2708.0,5,Nikhil Rathore,India,Gujarat,Male,1987-09-04,50.0,2025-11-15,N,0.0,0,1,35,31-40,Low
+627,6691-LNYKT,2026-05-02,Trial,2026-08-30,Basic,Monthly,,,12.9,1774.0,26,Aryan Sengupta,India,Bihar,Male,1970-08-12,51.0,2026-08-29,N,52.0,0,1,56,51-60,Low
+628,9502-VWLQQ,2021-12-03,Paid,2022-01-02,Standard,Monthly,2025-07-31,Poor customer support,22.88,604.0,86,Payal Joshi,India,Andhra Pradesh,Female,1997-06-14,52.0,2022-05-25,N,45.0,1,1,24,21-30,High
+629,3848-XKHGE,2025-09-21,Paid,2026-12-31,Basic,Annual,2026-01-01,Too expensive,11.31,467.0,90,Aditya Chopra,India,Assam,Male,1961-07-14,53.0,2025-11-25,N,21.0,1,1,64,61-70,High
+630,0090-DPHFY,2020-11-21,Paid,2021-05-20,Standard,Monthly,2022-04-04,Switched to competitor,23.56,201.0,95,Ira Naidu,India,Rajasthan,Female,1965-11-20,56.0,2022-03-25,Y,39.0,1,1,55,51-60,High
+631,7251-VZSPT,2021-01-11,Paid,2021-04-11,Basic,Monthly,,,7.93,1877.0,33,Priya Tiwari,India,Odisha,Female,1978-04-03,58.0,2024-08-13,N,52.0,0,1,43,41-50,Low
+632,4681-HJLLT,2023-01-06,Trial,2023-02-05,Standard,Monthly,2026-03-16,Service issue,14.0,669.0,88,Krishna Kumar,India,Rajasthan,Male,1989-05-13,61.0,2025-07-02,N,18.0,1,1,34,31-40,High
+633,1020-GPNUY,2020-04-19,Paid,2020-06-18,Premium,Monthly,,,28.76,2875.0,1,Parth Krishnan,India,Bihar,Male,1997-10-16,,,,,0,0,23,21-30,Low
+634,3613-RHJPR,2021-03-06,Paid,2021-09-02,Standard,Monthly,,,15.59,362.0,8,Ajay Bansal,India,Bihar,Male,1969-10-22,65.0,2024-12-09,Y,4.0,0,1,51,51-60,Low
+635,0444-CWPEQ,2023-11-24,Paid,2025-11-24,Standard,Annual,,,17.94,5205.0,2,Vihaan Malhotra,India,Bihar,Male,1984-05-14,,,,,0,0,40,31-40,Low
+636,7705-AZTBM,2024-03-17,Referral,2025-03-17,Basic,Annual,2025-02-17,Too expensive,6.11,344.0,99,Manoj Reddy,India,Karnataka,Male,1957-10-13,69.0,2024-11-16,N,28.0,1,1,66,61-70,High
+637,1874-UGQYJ,2022-09-11,Paid,2023-02-08,Basic,Monthly,,,11.3,5672.0,6,Priya Pandit,India,Jharkhand,Female,1965-04-11,,,,,0,0,57,51-60,Low
+638,6149-NYGCU,2021-12-11,Paid,2024-12-11,Standard,Annual,2022-03-25,Switched to competitor,17.16,706.0,65,Reyansh Pillai,India,Jharkhand,Male,1965-11-10,71.0,2022-01-28,N,61.0,1,1,56,51-60,Medium
+639,5590-APRDP,2024-09-19,Organic,2024-12-18,Premium,Monthly,,,35.24,5563.0,35,Lakshmi Mishra,India,Uttar Pradesh,Female,1994-01-26,,,,,0,0,31,31-40,Low
+640,9707-JLHCJ,2019-04-13,Organic,2019-10-10,Basic,Monthly,2020-08-09,Other,11.4,792.0,99,Sunita Mishra,India,Goa,Female,1988-12-31,73.0,2019-09-06,N,24.0,1,1,30,21-30,High
+641,5576-JVYJT,2023-12-27,Paid,2024-05-25,Premium,Monthly,,,43.28,3019.0,20,Nikhil Shah,India,Delhi,Male,1976-08-26,74.0,2024-11-16,N,57.0,0,1,47,41-50,Low
+642,3630-NYHKX,2025-03-13,Paid,2025-08-10,Basic,Monthly,,,8.59,470.0,49,Aishwarya Naidu,India,Andhra Pradesh,Female,1985-11-03,82.0,2026-08-23,Y,1.0,0,1,39,31-40,Low
+643,3777-DZGLD,2025-02-09,Organic,2026-12-31,Basic,Annual,,,5.99,4940.0,27,Aryan Joshi,India,Assam,Male,1979-10-22,83.0,2025-12-29,N,59.0,0,1,45,41-50,Low
+644,5912-FKAYT,2026-02-24,Paid,2026-12-31,Basic,Annual,,,9.63,846.0,24,Rahul Gupta,India,Karnataka,Male,2004-08-23,86.0,2026-08-29,N,31.0,0,1,22,21-30,Low
+645,7843-QLFBJ,2019-07-18,Paid,2019-10-16,Standard,Monthly,,,18.97,979.0,2,Saanvi Reddy,India,Bihar,Female,1999-02-12,88.0,2021-11-26,Y,67.0,0,1,20,11-20,Low
+646,4066-DTPVV,2023-06-23,Paid,2023-12-20,Standard,Monthly,,,16.44,5114.0,19,Om Chauhan,India,Bihar,Male,1995-06-02,89.0,2023-11-08,N,18.0,0,1,28,21-30,Low
+647,1625-GWGJX,2025-03-10,Paid,2026-03-10,Basic,Annual,,,9.57,5345.0,25,Rohan Chopra,India,West Bengal,Male,2004-07-09,,,,,0,0,21,21-30,Low
+648,4720-YKYQC,2025-11-19,Paid,2026-03-19,Standard,Monthly,,,16.95,1777.0,31,Manish Subramaniam,India,Gujarat,Male,1993-02-20,90.0,2026-08-23,N,83.0,0,1,33,31-40,Low
+649,5039-VZUKQ,2022-08-16,Partner,2022-10-15,Premium,Monthly,,,42.2,1726.0,16,Sanjay Pillai,India,Bihar,Male,1979-06-04,,,,,0,0,43,41-50,Low
+650,9891-JACHX,2021-05-20,Paid,2021-11-16,Basic,Monthly,2022-01-31,Other,6.55,400.0,81,Parth Kapoor,India,Goa,Male,1958-08-11,,,,,1,0,63,61-70,High
+651,8056-CRMPL,2021-10-07,Trial,2022-01-05,Basic,Monthly,,,9.73,5091.0,54,Nidhi Iyer,India,West Bengal,Female,1984-08-03,93.0,2026-05-25,Y,72.0,0,1,37,31-40,Medium
+652,4135-LDNSA,2019-04-28,Paid,2019-06-27,Premium,Monthly,,,35.08,4004.0,23,Swati Patel,India,Gujarat,Female,2001-07-06,,,,,0,0,18,11-20,Low
+653,4719-QYRDA,2019-09-09,Paid,2019-12-08,Standard,Monthly,,,15.58,3239.0,18,Vishal Rao,India,Kerala,Male,2004-06-01,95.0,2024-09-15,N,59.0,0,1,15,11-20,Low
+654,2522-RYKSY,2021-01-12,Trial,2021-03-13,Premium,Monthly,,,38.9,677.0,14,Swati Tiwari,India,Assam,Female,1976-11-12,97.0,2024-08-15,N,9.0,0,1,44,41-50,Low
+655,4526-PLSJA,2022-02-18,Paid,2025-02-18,Premium,Annual,,,35.41,3925.0,5,Tanya Pillai,India,Goa,Female,2007-01-10,100.0,2025-10-16,Y,67.0,0,1,15,11-20,Low
+656,8903-NQLGY,2020-10-08,Paid,2020-12-07,Basic,Monthly,2021-05-04,Poor customer support,6.96,604.0,89,Abhishek Das,India,Rajasthan,Male,1991-11-08,107.0,2021-01-30,N,57.0,1,1,29,21-30,High
+657,2068-SULDQ,2020-12-25,Trial,2021-04-24,Basic,Monthly,,,7.22,4189.0,13,Nikhil Mishra,India,Maharashtra,Male,1967-12-07,,,,,0,0,53,51-60,Low
+658,6512-WCLXT,2019-01-21,Paid,2020-01-21,Premium,Annual,2020-06-06,Not using service,44.03,562.0,70,Meera Yadav,India,Chandigarh,Female,1958-03-22,108.0,2020-04-12,N,71.0,1,1,61,61-70,High
+659,1646-QFYKA,2019-07-04,Paid,2020-07-04,Standard,Annual,2020-02-14,Other,14.07,99.0,97,Vikram Patel,India,Kerala,Male,1987-02-28,111.0,2019-10-03,N,96.0,1,1,32,31-40,High
+660,1293-VNVXH,2020-03-11,Referral,2020-07-09,Standard,Monthly,,,20.8,5245.0,5,Deepika Kumar,India,Rajasthan,Female,1996-05-15,113.0,2025-08-06,Y,82.0,0,1,24,21-30,Low
+661,5661-UKWPY,2019-09-11,Paid,2019-12-10,Standard,Monthly,,,20.39,1497.0,24,Isha Pillai,India,Gujarat,Female,1989-07-06,115.0,2024-11-29,Y,51.0,0,1,30,21-30,Low
+662,4837-AXNJA,2021-01-24,Partner,2023-01-24,Basic,Annual,2023-03-19,Service issue,7.96,366.0,98,Raghav Yadav,India,Kerala,Male,1975-08-24,118.0,2023-01-30,N,38.0,1,1,45,41-50,High
+663,0645-KQBUM,2019-01-11,Organic,2020-01-11,Standard,Annual,2021-01-14,Other,23.87,189.0,73,Sai Bhat,India,Punjab,Male,1992-04-11,125.0,2020-07-08,Y,77.0,1,1,27,21-30,High
+664,4210-RKZLD,2021-08-17,Paid,2024-08-17,Basic,Annual,,,9.25,3015.0,18,Kavya Kumar,India,Rajasthan,Female,1990-08-27,127.0,2025-07-25,Y,97.0,0,1,31,31-40,Low
+665,4295-UNWMD,2023-03-24,Paid,2026-03-24,Standard,Annual,2024-12-18,Service issue,18.87,743.0,72,Keshav Verma,India,Jharkhand,Male,2005-05-14,133.0,2024-09-22,N,81.0,1,1,18,11-20,High
+666,0742-BKRDD,2025-11-21,Organic,2026-03-21,Basic,Monthly,,,9.15,3806.0,26,Varun Singh,India,Bihar,Male,1995-09-12,138.0,2026-09-01,N,35.0,0,1,30,21-30,Low
+667,8017-VPJBY,2022-10-24,Paid,2023-02-21,Basic,Monthly,2023-01-16,Not using service,12.26,617.0,70,Sneha Pandey,India,Odisha,Female,1976-03-07,144.0,2022-11-23,N,32.0,1,1,47,41-50,High
+668,2001-QCXGW,2019-12-21,Partner,2020-06-18,Standard,Monthly,2023-07-22,Too expensive,14.59,185.0,69,Vihaan Bansal,India,Rajasthan,Male,1966-04-19,145.0,2021-11-19,N,8.0,1,1,54,51-60,Medium
+669,2417-VAJEE,2021-10-04,Paid,2022-02-01,Basic,Monthly,2025-05-14,Poor customer support,9.82,487.0,100,Pooja Menon,India,Maharashtra,Female,1966-10-28,146.0,2024-09-23,N,30.0,1,1,55,51-60,High
+670,2076-ZPSDZ,2021-04-17,Paid,2021-09-14,Basic,Monthly,,,9.39,886.0,9,Keshav Pandey,India,Haryana,Male,2001-01-16,,,,,0,0,20,11-20,Low
+671,0510-BRNPX,2020-07-19,Paid,2022-07-19,Standard,Annual,,,21.11,986.0,31,Gaurav Pandey,India,Delhi,Male,1962-04-01,150.0,2026-09-05,N,46.0,0,1,58,51-60,Low
+672,5327-NVSKQ,2019-12-07,Paid,2020-01-06,Basic,Monthly,,,6.14,4015.0,15,Pari Menon,India,Chandigarh,Female,1974-04-16,,,,,0,0,46,41-50,Low
+673,1557-LPLXJ,2022-10-10,Organic,2025-10-10,Basic,Annual,2024-03-21,Other,9.94,262.0,64,Navya Tiwari,India,Delhi,Female,1963-03-09,153.0,2023-12-01,N,40.0,1,1,60,51-60,Medium
+674,9201-TLXDP,2020-08-09,Paid,2022-08-09,Basic,Annual,,,9.51,1338.0,13,Nidhi Bose,India,Karnataka,Female,1980-10-21,155.0,2026-08-22,Y,2.0,0,1,40,31-40,Low
+675,3674-DMTMD,2024-05-14,Organic,2024-10-11,Standard,Monthly,2026-05-13,Poor customer support,19.39,400.0,86,Chitra Desai,India,Madhya Pradesh,Female,2005-04-29,159.0,2025-03-10,N,13.0,1,1,19,11-20,High
+676,5062-LMAFE,2025-05-24,Paid,2026-05-24,Premium,Annual,2025-08-12,Service issue,48.05,884.0,61,Kavya Kumar,India,Maharashtra,Female,1963-03-26,160.0,2025-06-12,N,1.0,1,1,62,61-70,Medium
+677,5314-UVCBE,2023-05-08,Partner,2023-09-05,Basic,Monthly,,,8.04,2104.0,50,Parth Trivedi,India,Karnataka,Male,1962-04-27,161.0,2025-08-14,N,6.0,0,1,61,61-70,Medium
+678,8394-DMPDK,2023-02-19,Paid,2023-05-20,Basic,Monthly,,,7.95,2339.0,51,Manisha Pillai,India,Karnataka,Female,1974-10-13,166.0,2024-06-14,N,55.0,0,1,48,41-50,Medium
+679,4186-KLDAR,2024-06-25,Trial,2024-10-23,Basic,Monthly,,,12.5,2431.0,26,Pooja Singh,India,Bihar,Female,2002-10-12,168.0,2026-08-02,Y,81.0,0,1,22,21-30,Low
+680,1275-LUPUN,2024-12-06,Paid,2025-05-05,Basic,Monthly,,,7.14,1285.0,23,Shreya Menon,India,Bihar,Female,1956-11-14,175.0,2026-09-06,Y,92.0,0,1,68,61-70,Low
+681,3986-PUNSC,2019-03-30,Paid,2019-08-27,Standard,Monthly,2022-07-04,Poor customer support,24.53,442.0,80,Ritu Bansal,India,Rajasthan,Female,1984-11-17,178.0,2021-11-17,N,28.0,1,1,34,31-40,High
+682,2419-HDEJG,2024-12-26,Trial,2025-04-25,Premium,Monthly,,,42.12,3964.0,48,Raghav Kumar,India,Delhi,Male,1970-11-22,180.0,2025-07-30,N,73.0,0,1,54,51-60,Low
+683,5179-EQCRQ,2023-09-08,Organic,2026-09-08,Basic,Annual,2026-03-28,Not using service,11.17,313.0,73,Divya Subramaniam,India,Karnataka,Female,1986-07-29,181.0,2026-01-22,N,58.0,1,1,37,31-40,High
+684,1257-WCVVS,2022-01-08,Partner,2022-07-07,Basic,Monthly,,,8.1,1824.0,0,Isha Subramaniam,India,Chandigarh,Female,1958-09-06,185.0,2024-06-14,N,32.0,0,1,63,61-70,Low
+685,1013-QDLYC,2020-08-26,Organic,2021-02-22,Basic,Monthly,,,9.84,5773.0,44,Aditya Chopra,India,Odisha,Male,1994-06-03,,,,,0,0,26,21-30,Low
+686,5543-XVBWW,2019-01-26,Paid,2019-03-27,Basic,Monthly,,,9.96,4557.0,55,Kavya Bansal,India,Tamil Nadu,Female,2005-01-21,188.0,2025-04-06,N,37.0,0,1,14,11-20,Medium
+687,5731-KWYXN,2022-04-08,Organic,2022-09-05,Basic,Monthly,,,7.6,2697.0,5,Raghav Nair,India,Kerala,Male,2005-02-21,,,,,0,0,17,11-20,Low
+688,0298-MKFGL,2024-01-29,Referral,2025-01-29,Premium,Annual,2025-12-19,Other,48.73,760.0,69,Neha Desai,India,Uttar Pradesh,Female,1968-11-25,190.0,2025-11-28,Y,65.0,1,1,55,51-60,Medium
+689,2147-VNEFF,2019-08-18,Trial,2019-12-16,Standard,Monthly,,,14.69,3947.0,49,Kunal Pandey,India,Karnataka,Male,1991-11-11,,,,,0,0,28,21-30,Low
+690,3918-KRGMX,2019-02-18,Paid,2019-07-18,Standard,Monthly,,,15.54,1224.0,0,Isha Bhat,India,Bihar,Female,2000-02-13,192.0,2023-10-23,N,21.0,0,1,19,11-20,Low
+691,7873-MTDYS,2019-10-03,Trial,2020-10-03,Premium,Annual,,,26.64,5836.0,46,Amit Nair,India,West Bengal,Male,1979-06-22,195.0,2022-06-06,Y,88.0,0,1,40,31-40,Low
+692,0436-PBNSM,2024-10-22,Paid,2025-03-21,Premium,Monthly,2025-06-26,Poor customer support,45.6,741.0,88,Ajay Nair,India,Haryana,Male,1975-02-22,198.0,2025-05-04,N,86.0,1,1,50,41-50,High
+693,7740-YEYRQ,2025-06-18,Paid,2025-12-15,Premium,Monthly,,,48.51,4385.0,25,Sai Verma,India,Telangana,Male,1974-05-07,200.0,2026-08-23,N,96.0,0,1,51,51-60,Low
+694,1996-BHPWV,2026-02-26,Paid,2026-08-25,Basic,Monthly,,,8.34,3862.0,18,Kavya Menon,India,Assam,Female,2003-02-03,,,,,0,0,23,21-30,Low
+695,5780-HUPFX,2025-09-21,Paid,2026-02-18,Standard,Monthly,,,18.6,1231.0,3,Nikhil Mukherjee,India,Delhi,Male,2002-03-12,201.0,2025-10-04,N,81.0,0,1,24,21-30,Low
+696,6338-MJZAM,2021-02-08,Paid,2024-02-08,Standard,Annual,,,15.02,708.0,23,Ramesh Chopra,India,Tamil Nadu,Male,2007-03-16,202.0,2023-05-31,N,16.0,0,1,14,11-20,Low
+697,7840-WFECY,2026-04-29,Trial,2026-07-28,Premium,Monthly,,,47.56,3126.0,30,Diya Bhat,India,Gujarat,Female,1958-12-06,204.0,2026-09-06,N,84.0,0,1,67,61-70,Low
+698,0599-WGKMB,2024-12-13,Organic,2025-12-13,Premium,Annual,2026-07-02,Other,38.97,640.0,92,Divya Menon,India,Haryana,Female,1994-03-15,,,,,1,0,31,31-40,High
+699,8507-JCZPC,2026-03-02,Organic,2026-04-01,Standard,Monthly,,,21.01,2282.0,17,Jaya Mehta,India,Chandigarh,Female,1981-05-10,205.0,2026-07-22,Y,27.0,0,1,45,41-50,Low
+700,2730-YQMQB,2019-09-19,Paid,2019-11-18,Basic,Monthly,,,6.52,4579.0,12,Kajal Bose,India,Telangana,Female,1960-02-23,,,,,0,0,60,51-60,Low
+701,9954-XQBEC,2026-02-11,Organic,2026-12-31,Basic,Annual,,,9.33,709.0,32,Om Mukherjee,India,Haryana,Male,1989-05-07,206.0,2026-06-14,N,32.0,0,1,37,31-40,Low
+702,9403-ESMNL,2021-03-18,Paid,2021-06-16,Standard,Monthly,,,18.43,1201.0,28,Sunita Menon,India,Maharashtra,Female,1971-09-10,209.0,2022-08-24,N,67.0,0,1,50,41-50,Low
+703,4678-YRGDE,2024-06-17,Partner,2024-11-14,Standard,Monthly,2025-11-02,Other,14.99,464.0,66,Rajesh Mehta,India,Odisha,Male,1962-11-16,211.0,2025-07-21,N,48.0,1,1,62,61-70,Medium
+704,2852-MSHDG,2025-10-19,Referral,2026-10-19,Standard,Annual,,,19.31,3296.0,6,Karthik Yadav,India,Maharashtra,Male,1987-05-18,215.0,2026-02-03,N,19.0,0,1,38,31-40,Low
+705,6523-YZRSP,2024-10-14,Trial,2025-10-14,Standard,Annual,2026-06-20,Poor customer support,24.75,499.0,84,Chitra Reddy,India,Uttar Pradesh,Female,1983-06-11,,,,,1,0,41,41-50,High
+706,2114-PSBDS,2022-12-30,Referral,2023-04-29,Standard,Monthly,2023-04-24,Other,16.18,78.0,80,Sandeep Rao,India,West Bengal,Male,1983-12-12,217.0,2023-01-30,N,14.0,1,1,39,31-40,High
+707,9024-JEWKV,2022-09-25,Trial,2023-03-24,Standard,Monthly,,,16.8,3148.0,37,Mohit Rao,India,Goa,Male,2007-02-03,218.0,2026-09-15,N,56.0,0,1,16,11-20,Low
+708,0464-CBWUJ,2023-09-25,Paid,2023-11-24,Standard,Monthly,,,16.71,5675.0,37,Om Krishnan,India,Madhya Pradesh,Male,1957-09-19,220.0,2024-04-14,N,51.0,0,1,66,61-70,Low
+709,6653-KQCYB,2025-08-27,Organic,2026-02-23,Standard,Monthly,2026-05-23,Other,18.26,393.0,90,Rajesh Sengupta,India,Assam,Male,1996-08-31,222.0,2026-02-16,Y,49.0,1,1,29,21-30,High
+710,6070-STDLH,2025-04-10,Paid,2025-08-08,Standard,Monthly,,,16.93,5254.0,31,Saanvi Kapoor,India,Odisha,Female,1977-03-29,225.0,2026-05-21,Y,83.0,0,1,48,41-50,Low
+711,2616-LUZLG,2021-05-02,Paid,2021-09-29,Premium,Monthly,,,29.63,4084.0,10,Gaurav Thakur,India,Odisha,Male,1999-09-30,226.0,2024-09-11,N,59.0,0,1,22,21-30,Low
+712,5781-BBKRV,2021-01-02,Referral,2021-03-03,Basic,Monthly,,,11.67,5526.0,4,Shreya Rathore,India,Maharashtra,Female,1964-08-23,228.0,2024-06-02,N,42.0,0,1,56,51-60,Low
+713,9343-TGMTK,2023-02-28,Partner,2023-07-28,Standard,Monthly,,,15.37,3793.0,19,Ajay Thakur,India,Odisha,Male,2004-04-30,232.0,2025-01-16,N,57.0,0,1,19,11-20,Low
+714,5555-TMEGV,2020-03-12,Trial,2020-04-11,Basic,Monthly,,,11.72,4165.0,36,Sonal Gupta,India,Karnataka,Female,1958-06-29,,,,,0,0,62,61-70,Low
+715,2290-LVLFN,2020-05-27,Partner,2021-05-27,Premium,Annual,,,44.36,1667.0,45,Deepika Bansal,India,Andhra Pradesh,Female,2000-09-23,234.0,2024-11-26,N,93.0,0,1,20,11-20,Low
+716,1795-PUKZY,2024-06-04,Organic,2025-06-04,Standard,Annual,2026-08-21,Not using service,24.44,193.0,78,Raghav Tiwari,India,Telangana,Male,2006-11-24,238.0,2026-05-06,N,64.0,1,1,18,11-20,High
+717,6229-EXHBU,2022-07-30,Paid,2023-07-30,Standard,Annual,2026-01-14,Too expensive,24.13,503.0,60,Aryan Verma,India,Odisha,Male,1983-02-22,239.0,2024-12-15,N,73.0,1,1,39,31-40,Medium
+718,1020-YESGT,2019-12-06,Paid,2020-02-04,Basic,Monthly,2023-10-18,Service issue,11.99,271.0,91,Nidhi Tiwari,India,Andhra Pradesh,Female,1988-10-21,246.0,2023-06-05,N,68.0,1,1,31,31-40,High
+719,4331-VRGHJ,2019-08-01,Paid,2021-08-01,Standard,Annual,,,21.6,5371.0,6,Kavita Pillai,India,Kerala,Female,1973-08-06,248.0,2024-02-12,Y,67.0,0,1,46,41-50,Low
+720,8899-NNMEK,2023-10-16,Trial,2024-02-13,Standard,Monthly,,,19.21,3859.0,39,Amit Nair,India,Haryana,Male,1994-09-08,251.0,2026-02-14,Y,67.0,0,1,29,21-30,Low
+721,2249-DVZUH,2022-12-04,Organic,2023-05-03,Standard,Monthly,,,17.25,3393.0,43,Vihaan Chauhan,India,Rajasthan,Male,1975-11-21,252.0,2025-09-10,Y,15.0,0,1,47,41-50,Low
+722,2587-PWRRW,2024-11-16,Partner,2026-12-31,Basic,Annual,,,6.1,1622.0,9,Parth Bhat,India,Punjab,Male,1980-08-09,254.0,2024-11-20,Y,93.0,0,1,44,41-50,Low
+723,2868-PFBNR,2022-02-27,Trial,2022-04-28,Premium,Monthly,,,43.09,1940.0,39,Rakesh Bhat,India,Karnataka,Male,1955-10-31,255.0,2022-05-30,Y,99.0,0,1,66,61-70,Low
+724,2198-SQJGD,2021-01-16,Paid,2021-06-15,Basic,Monthly,,,7.8,474.0,29,Priya Mishra,India,Telangana,Female,1971-09-15,257.0,2025-08-26,N,20.0,0,1,49,41-50,Low
+725,6643-PSLCN,2023-01-22,Organic,2023-02-21,Standard,Monthly,,,14.54,5547.0,50,Kabir Singh,India,Assam,Male,1984-01-12,258.0,2024-11-28,N,39.0,0,1,39,31-40,Medium
+726,9386-AJWMY,2025-07-31,Paid,2025-08-30,Premium,Monthly,2026-03-21,Other,43.88,479.0,69,Vihaan Menon,India,Odisha,Male,1982-07-11,260.0,2026-02-05,N,47.0,1,1,43,41-50,Medium
+727,3590-EREQZ,2019-02-06,Paid,2019-08-05,Basic,Monthly,2020-08-24,Poor customer support,9.91,662.0,81,Swati Naidu,India,Assam,Female,2003-03-23,263.0,2020-05-23,N,89.0,1,1,16,11-20,High
+728,1279-UDBTS,2024-02-10,Partner,2024-07-09,Premium,Monthly,,,33.64,3234.0,13,Abhishek Rathore,India,Uttar Pradesh,Male,1969-10-05,265.0,2025-10-03,N,18.0,0,1,54,51-60,Low
+729,8361-QBQES,2024-07-08,Partner,2024-11-05,Standard,Monthly,,,20.27,2365.0,52,Isha Krishnan,India,Karnataka,Female,2005-02-17,266.0,2025-09-21,N,63.0,0,1,19,11-20,Medium
+730,9475-CBPMY,2023-04-24,Paid,2023-10-21,Premium,Monthly,,,35.91,5860.0,18,Varun Patel,India,Delhi,Male,1997-05-08,,,,,0,0,26,21-30,Low
+731,6184-NCXXT,2021-09-10,Partner,2022-01-08,Basic,Monthly,,,12.59,5685.0,52,Manoj Chatterjee,India,Tamil Nadu,Male,1971-01-05,268.0,2022-12-13,N,32.0,0,1,51,51-60,Medium
+732,8920-PTNHH,2023-07-28,Paid,2023-12-25,Basic,Monthly,,,8.16,5151.0,54,Geeta Kumar,India,Telangana,Female,1971-11-29,269.0,2025-09-07,N,7.0,0,1,52,51-60,Medium
+733,9731-BQVXY,2020-11-12,Trial,2020-12-12,Standard,Monthly,,,14.02,5832.0,47,Karthik Gupta,India,Bihar,Male,1994-05-19,270.0,2021-12-24,N,50.0,0,1,26,21-30,Low
+734,9438-LUVXL,2026-05-18,Paid,2026-12-31,Standard,Annual,,,14.94,443.0,50,Sandeep Kumar,India,Andhra Pradesh,Male,1974-10-31,,,,,0,0,52,51-60,Medium
+735,0768-MWXNS,2022-08-02,Paid,2023-08-02,Basic,Annual,,,7.95,3582.0,7,Rashmi Sengupta,India,Madhya Pradesh,Female,1968-05-21,272.0,2026-07-19,N,59.0,0,1,54,51-60,Low
+736,2365-QBTPP,2026-04-23,Paid,2026-12-31,Basic,Annual,,,11.07,5669.0,26,Ajay Chopra,India,Telangana,Male,1973-03-29,274.0,2026-07-07,Y,89.0,0,1,53,51-60,Low
+737,6179-XVVBC,2021-06-08,Paid,2022-06-08,Standard,Annual,2021-11-04,Too expensive,16.2,653.0,62,Parth Subramaniam,India,Chandigarh,Male,1974-06-21,,,,,1,0,47,41-50,Medium
+738,1922-ZRHYV,2019-08-03,Referral,2019-12-31,Standard,Monthly,2019-09-09,Service issue,20.07,95.0,94,Deepak Chopra,India,Chandigarh,Male,1983-11-08,279.0,2019-09-04,N,53.0,1,1,36,31-40,High
+739,8147-QDZRL,2020-12-11,Referral,2021-03-11,Premium,Monthly,2024-01-28,Not using service,42.77,689.0,71,Anil Agarwal,India,Madhya Pradesh,Male,1959-02-07,,,,,1,0,62,61-70,High
+740,6841-KEGLH,2019-07-27,Organic,2022-07-27,Basic,Annual,,,10.93,1025.0,27,Chitra Chopra,India,Assam,Female,2004-05-26,282.0,2026-07-10,Y,88.0,0,1,15,11-20,Low
+741,8954-RFTWB,2021-09-20,Organic,2022-02-17,Basic,Monthly,,,10.49,1449.0,5,Arjun Patel,India,Maharashtra,Male,1991-12-31,285.0,2024-05-12,Y,17.0,0,1,30,21-30,Low
+742,6114-BVWXV,2020-07-15,Organic,2020-12-12,Standard,Monthly,,,23.37,2400.0,29,Nidhi Yadav,India,Maharashtra,Female,1955-08-05,286.0,2025-05-19,N,55.0,0,1,65,61-70,Low
+743,0280-SYXPF,2024-02-19,Partner,2025-02-19,Premium,Annual,2025-03-12,Other,31.28,267.0,95,Reyansh Chauhan,India,Uttar Pradesh,Male,1976-08-14,289.0,2024-12-04,N,42.0,1,1,48,41-50,High
+744,6652-QUHYH,2021-09-28,Paid,2022-01-26,Standard,Monthly,,,16.22,1442.0,18,Payal Nair,India,Karnataka,Female,1963-05-22,,,,,0,0,58,51-60,Low
+745,7109-WLUDS,2020-01-23,Referral,2022-01-23,Premium,Annual,,,29.35,3643.0,30,Yash Joshi,India,Goa,Male,1997-08-29,292.0,2025-02-20,Y,14.0,0,1,22,21-30,Low
+746,5152-AGUEY,2022-12-29,Organic,2023-04-28,Standard,Monthly,,,22.93,1105.0,55,Kavya Pillai,India,West Bengal,Female,2005-08-05,293.0,2026-02-13,N,83.0,0,1,17,11-20,Medium
+747,1284-SZMBD,2024-09-16,Referral,2026-12-31,Basic,Annual,,,10.6,3651.0,13,Kavita Reddy,India,Punjab,Female,1990-08-04,296.0,2025-09-25,N,1.0,0,1,34,31-40,Low
+748,6150-PFXUX,2021-08-25,Paid,2022-08-25,Standard,Annual,,,17.92,5541.0,25,Myra Trivedi,India,Kerala,Female,1977-02-09,297.0,2023-09-28,Y,51.0,0,1,45,41-50,Low
+749,1499-AKQMJ,2020-10-23,Referral,2021-02-20,Standard,Monthly,,,16.01,5961.0,32,Krishna Nair,India,West Bengal,Male,1993-08-31,299.0,2025-09-04,N,40.0,0,1,27,21-30,Low
+750,1524-VVLNA,2024-10-09,Paid,2024-11-08,Standard,Monthly,,,21.07,2961.0,52,Swati Das,India,Delhi,Female,2005-03-13,,,,,0,0,20,11-20,Medium
+751,8079-ECFPJ,2020-11-23,Paid,2023-11-23,Premium,Annual,,,47.4,4099.0,0,Ritu Tiwari,India,Delhi,Female,1987-05-26,302.0,2025-11-26,N,46.0,0,1,33,31-40,Low
+752,4991-ANLVN,2022-04-08,Referral,2022-06-07,Basic,Monthly,,,9.74,4204.0,39,Preeti Bansal,India,Madhya Pradesh,Female,1967-03-19,303.0,2025-03-09,N,42.0,0,1,55,51-60,Low
+753,4775-ZYWRU,2024-05-21,Referral,2026-05-21,Standard,Annual,,,23.19,1839.0,35,Vikram Das,India,Telangana,Male,1990-04-02,304.0,2026-08-20,Y,97.0,0,1,34,31-40,Low
+754,9012-AZQYG,2025-03-31,Paid,2025-04-30,Standard,Monthly,,,14.31,1322.0,18,Shreya Reddy,India,Madhya Pradesh,Female,1999-10-18,312.0,2026-06-27,Y,71.0,0,1,25,21-30,Low
+755,9796-RUNTS,2023-12-11,Paid,2024-05-09,Premium,Monthly,2024-03-21,Switched to competitor,37.58,410.0,97,Ritika Gupta,India,Haryana,Female,2003-03-03,314.0,2024-03-18,N,38.0,1,1,21,21-30,High
+756,0725-UWXWN,2023-06-12,Paid,2023-07-12,Basic,Monthly,,,6.55,4605.0,19,Pallavi Iyer,India,Maharashtra,Female,1963-11-06,317.0,2026-05-14,N,41.0,0,1,60,51-60,Low
+757,6408-QXUYS,2023-10-22,Paid,2024-04-19,Premium,Monthly,,,27.04,2509.0,16,Ramesh Verma,India,Assam,Male,1964-05-18,,,,,0,0,59,51-60,Low
+758,3389-SRMRD,2025-08-31,Organic,2026-12-31,Basic,Annual,,,9.92,707.0,29,Tanya Pandey,India,Punjab,Female,1961-01-10,320.0,2026-09-14,Y,92.0,0,1,65,61-70,Low
+759,3996-SFTFL,2026-01-09,Paid,2026-02-08,Basic,Monthly,2026-03-18,Service issue,7.36,63.0,100,Isha Desai,India,Bihar,Female,1971-07-20,332.0,2026-02-23,N,15.0,1,1,54,51-60,High
+760,7037-NAYGG,2019-09-19,Organic,2020-09-19,Basic,Annual,,,9.44,3589.0,1,Varsha Reddy,India,Goa,Female,1964-02-17,334.0,2026-02-27,N,7.0,0,1,56,51-60,Low
+761,8019-SWLVN,2026-06-02,Organic,2026-12-31,Basic,Annual,,,7.12,1275.0,13,Deepika Menon,India,Haryana,Female,1986-07-30,335.0,2026-08-27,N,37.0,0,1,40,31-40,Low
+762,3908-KDFMY,2026-02-09,Referral,2026-12-31,Basic,Annual,,,6.09,1414.0,1,Mohit Das,India,Madhya Pradesh,Male,1967-05-15,338.0,2026-09-13,Y,60.0,0,1,59,51-60,Low
+763,4732-EFLQV,2021-12-07,Organic,2023-12-07,Premium,Annual,,,36.15,3996.0,36,Ramesh Sharma,India,Assam,Male,1967-04-01,,,,,0,0,55,51-60,Low
+764,7272-RFCUA,2023-01-28,Paid,2024-01-28,Premium,Annual,,,32.91,4353.0,20,Amit Gupta,India,Telangana,Male,1975-03-04,340.0,2023-08-18,N,85.0,0,1,48,41-50,Low
+765,1871-JTMTB,2020-01-12,Partner,2020-06-10,Standard,Monthly,,,24.4,5856.0,26,Ritika Joshi,India,Madhya Pradesh,Female,1964-03-09,342.0,2025-09-06,N,88.0,0,1,56,51-60,Low
+766,1923-HGZUY,2024-07-24,Paid,2024-09-22,Standard,Monthly,,,19.41,2373.0,19,Shalini Trivedi,India,Madhya Pradesh,Female,1969-11-21,344.0,2026-05-03,N,35.0,0,1,55,51-60,Low
+767,9778-TFLYK,2023-03-07,Paid,2023-07-05,Basic,Monthly,,,8.66,5728.0,34,Chitra Kapoor,India,Andhra Pradesh,Female,1963-07-18,345.0,2026-02-25,N,69.0,0,1,60,51-60,Low
+768,5277-HXNRE,2023-09-12,Paid,2023-12-11,Premium,Monthly,,,43.93,2730.0,50,Lakshmi Sengupta,India,Bihar,Female,1995-07-20,348.0,2026-04-07,N,20.0,0,1,28,21-30,Medium
+769,7996-LUAZC,2025-04-19,Organic,2026-12-31,Basic,Annual,,,8.46,1610.0,40,Lakshmi Chatterjee,India,Delhi,Female,2002-12-12,350.0,2026-01-04,Y,26.0,0,1,22,21-30,Low
+770,5533-TUEUR,2023-09-02,Partner,2026-09-02,Basic,Annual,,,11.8,540.0,9,Payal Patel,India,Karnataka,Female,1963-12-07,351.0,2025-08-07,N,81.0,0,1,60,51-60,Low
+771,2161-WKFJC,2026-06-08,Partner,2026-11-05,Standard,Monthly,,,14.04,2296.0,18,Anjali Nair,India,Haryana,Female,1969-11-06,358.0,2026-09-11,Y,30.0,0,1,57,51-60,Low
+772,7812-CEUHS,2020-10-13,Organic,2021-10-13,Standard,Annual,,,20.7,2362.0,41,Aadhya Sharma,India,Punjab,Female,1965-10-26,363.0,2026-06-30,N,94.0,0,1,55,51-60,Low
+773,1678-DLMKE,2022-05-16,Paid,2022-08-14,Premium,Monthly,,,40.32,3216.0,2,Yamini Singh,India,Uttar Pradesh,Female,1961-02-19,368.0,2024-05-22,N,63.0,0,1,61,61-70,Low
+774,2480-PVXQG,2019-04-08,Organic,2019-10-05,Standard,Monthly,2020-04-30,Not using service,14.65,460.0,77,Reyansh Singh,India,Tamil Nadu,Male,2007-11-23,369.0,2019-11-27,N,57.0,1,1,11,11-20,High
+775,4065-TVVZV,2024-03-13,Paid,2024-05-12,Premium,Monthly,,,30.72,5243.0,48,Yamini Verma,India,Kerala,Female,1973-06-07,370.0,2025-08-28,N,44.0,0,1,51,51-60,Low
+776,1847-HRWVC,2021-03-14,Referral,2021-07-12,Standard,Monthly,,,24.05,5135.0,54,Anil Agarwal,India,Uttar Pradesh,Male,1989-09-14,375.0,2026-03-31,N,88.0,0,1,31,31-40,Medium
+777,0225-JGBBN,2022-07-13,Paid,2023-01-09,Standard,Monthly,2025-10-06,Too expensive,20.91,481.0,64,Lakshmi Thakur,India,Madhya Pradesh,Female,1992-12-31,376.0,2025-05-08,N,39.0,1,1,30,21-30,Medium
+778,1294-SGETL,2020-07-18,Paid,2020-09-16,Premium,Monthly,,,26.91,339.0,40,Deepika Reddy,India,Kerala,Female,1994-04-01,,,,,0,0,26,21-30,Low
+779,5067-XZXZF,2022-05-13,Trial,2022-08-11,Basic,Monthly,2023-09-19,Too expensive,9.93,525.0,68,Aarav Singh,India,Maharashtra,Male,1969-09-12,377.0,2023-05-07,N,31.0,1,1,53,51-60,Medium
+780,4403-ZDALP,2025-09-09,Paid,2026-09-09,Standard,Annual,,,16.55,3008.0,39,Manisha Reddy,India,Telangana,Female,2006-09-25,378.0,2025-11-14,N,6.0,0,1,19,11-20,Low
+781,2577-JDUXZ,2021-02-09,Paid,2022-02-09,Standard,Annual,,,15.22,539.0,36,Yash Thakur,India,Maharashtra,Male,1958-12-14,383.0,2025-12-26,N,79.0,0,1,62,61-70,Low
+782,0579-TYZWP,2022-01-30,Trial,2022-04-30,Basic,Monthly,2024-08-06,Other,12.18,237.0,84,Vikram Chopra,India,Madhya Pradesh,Male,1983-09-14,384.0,2024-04-13,N,90.0,1,1,38,31-40,High
+783,8450-BNCQK,2026-06-28,Paid,2026-11-25,Standard,Monthly,2026-09-11,Other,19.45,406.0,82,Meera Nair,India,Chandigarh,Female,1995-12-23,385.0,2026-08-23,Y,80.0,1,1,31,31-40,High
+784,9694-RGZTH,2022-04-13,Paid,2023-04-13,Basic,Annual,,,9.01,5426.0,52,Aarav Sengupta,India,Maharashtra,Male,1975-11-26,388.0,2026-08-31,N,45.0,0,1,46,41-50,Medium
+785,8680-HPRBE,2019-11-28,Referral,2020-02-26,Basic,Monthly,,,10.65,2861.0,22,Myra Gupta,India,Rajasthan,Female,2001-08-18,390.0,2026-02-13,N,19.0,0,1,18,11-20,Low
+786,6461-CUUBP,2021-06-19,Organic,2023-06-19,Standard,Annual,2022-02-24,Poor customer support,18.59,254.0,89,Karthik Bhat,India,Telangana,Male,1983-04-06,393.0,2021-09-28,Y,10.0,1,1,38,31-40,High
+787,3321-EUDED,2021-10-10,Paid,2022-10-10,Basic,Annual,,,6.97,4196.0,53,Rajesh Mishra,India,Punjab,Male,1991-06-21,395.0,2024-01-02,N,80.0,0,1,30,21-30,Medium
+788,1481-FXKYY,2023-03-15,Trial,2025-03-15,Standard,Annual,,,22.21,1723.0,6,Dev Agarwal,India,Uttar Pradesh,Male,1963-03-08,,,,,0,0,60,51-60,Low
+789,2848-ANQTZ,2023-10-04,Paid,2024-04-01,Basic,Monthly,,,12.82,415.0,10,Reyansh Mishra,India,Tamil Nadu,Male,1967-07-17,398.0,2025-12-19,N,90.0,0,1,56,51-60,Low
+790,1376-UUJCA,2025-08-10,Organic,2025-12-08,Basic,Monthly,,,6.58,2224.0,50,Aryan Pandey,India,Uttar Pradesh,Male,1963-04-02,401.0,2026-07-10,Y,32.0,0,1,62,61-70,Medium
+791,6471-RANXP,2025-12-08,Referral,2026-01-07,Premium,Monthly,,,37.85,3002.0,2,Ramesh Joshi,India,West Bengal,Male,1979-09-02,402.0,2026-04-05,N,59.0,0,1,46,41-50,Low
+792,4835-RPTRB,2025-11-26,Partner,2026-12-31,Standard,Annual,,,15.37,3910.0,26,Rahul Das,India,Uttar Pradesh,Male,1992-08-11,403.0,2026-08-07,N,32.0,0,1,33,31-40,Low
+793,5883-RTRMU,2021-07-21,Organic,2021-10-19,Basic,Monthly,,,11.31,4650.0,52,Kiran Kapoor,India,West Bengal,Female,1957-05-04,,,,,0,0,64,61-70,Medium
+794,9568-HFDHX,2025-03-27,Referral,2025-04-26,Basic,Monthly,,,11.94,1547.0,41,Rahul Rathore,India,Karnataka,Male,1974-09-07,,,,,0,0,51,51-60,Low
+795,5878-UAYYM,2019-08-23,Paid,2019-09-22,Standard,Monthly,,,17.27,4829.0,9,Abhishek Shah,India,Assam,Male,2003-08-21,406.0,2026-09-13,N,80.0,0,1,16,11-20,Low
+796,8625-RALVG,2020-12-20,Organic,2021-03-20,Basic,Monthly,,,6.92,3401.0,28,Suresh Mehta,India,Punjab,Male,1960-05-05,412.0,2026-07-31,N,31.0,0,1,61,61-70,Low
+797,6481-UDLKL,2024-03-26,Paid,2024-08-23,Standard,Monthly,2025-02-11,Other,17.63,248.0,76,Rohan Bose,India,Assam,Male,1983-06-19,413.0,2024-07-04,N,73.0,1,1,41,41-50,High
+798,6199-KZYKE,2019-12-15,Referral,2022-12-15,Standard,Annual,,,16.73,992.0,50,Kunal Sharma,India,Goa,Male,1990-02-17,417.0,2026-08-18,N,59.0,0,1,30,21-30,Medium
+799,8129-ELZCH,2019-06-06,Organic,2021-06-06,Premium,Annual,2023-02-10,Too expensive,40.04,66.0,80,Meera Rao,India,Delhi,Female,1985-02-13,,,,,1,0,34,31-40,High
+800,0020-BNQZP,2023-07-30,Paid,2026-07-30,Standard,Annual,2025-07-24,Too expensive,24.29,268.0,88,Naveen Yadav,India,Bihar,Male,1986-07-06,419.0,2025-05-14,N,26.0,1,1,37,31-40,High
+801,0547-KALJD,2020-10-24,Referral,2021-04-22,Premium,Monthly,2023-09-20,Poor customer support,40.74,889.0,74,Suresh Rao,India,Bihar,Male,1969-06-08,423.0,2023-01-07,N,51.0,1,1,51,51-60,High
+802,7066-WFVPF,2025-12-08,Paid,2026-01-07,Basic,Monthly,,,8.77,2084.0,28,Reyansh Bansal,India,Gujarat,Male,1972-01-17,429.0,2026-08-08,N,85.0,0,1,54,51-60,Low
+803,6437-UTREB,2024-03-01,Paid,2026-12-31,Standard,Annual,,,17.94,4292.0,28,Aadhya Bose,India,Delhi,Female,1981-06-04,432.0,2026-02-12,Y,46.0,0,1,43,41-50,Low
+804,7758-DKNRR,2019-01-05,Paid,2022-01-05,Basic,Annual,2020-03-12,Too expensive,11.17,330.0,76,Myra Rathore,India,Bihar,Female,1971-08-03,433.0,2020-02-03,Y,11.0,1,1,47,41-50,High
+805,4315-HJUBE,2022-07-25,Paid,2023-01-21,Premium,Monthly,,,29.13,4565.0,51,Sai Chatterjee,India,Chandigarh,Male,1992-02-21,435.0,2026-07-05,N,61.0,0,1,30,21-30,Medium
+806,7779-UHRKC,2021-09-26,Referral,2021-12-25,Standard,Monthly,,,16.33,1693.0,3,Shalini Gupta,India,Andhra Pradesh,Female,2006-03-31,437.0,2023-12-05,N,24.0,0,1,15,11-20,Low
+807,2738-GGEBP,2025-08-31,Paid,2026-12-31,Basic,Annual,,,6.32,369.0,17,Ashok Bose,India,Gujarat,Male,1968-04-07,439.0,2026-01-25,Y,63.0,0,1,57,51-60,Low
+808,4525-SQAYV,2025-10-12,Organic,2026-02-09,Standard,Monthly,,,21.52,5423.0,19,Saanvi Sengupta,India,Uttar Pradesh,Female,1968-04-18,,,,,0,0,57,51-60,Low
+809,5633-PJNWR,2019-10-09,Referral,2020-03-07,Standard,Monthly,2020-04-10,Switched to competitor,18.65,730.0,95,Diya Mehta,India,Telangana,Female,1991-02-25,441.0,2020-03-08,N,52.0,1,1,29,21-30,High
+810,7785-JMALK,2020-06-25,Paid,2021-06-25,Basic,Annual,,,8.19,792.0,24,Divya Yadav,India,Tamil Nadu,Female,1975-06-14,444.0,2025-12-24,N,55.0,0,1,45,41-50,Low
+811,3079-QGPZR,2020-02-16,Referral,2020-08-14,Basic,Monthly,,,7.64,2233.0,23,Ira Thakur,India,West Bengal,Female,1960-11-20,445.0,2021-10-13,N,91.0,0,1,59,51-60,Low
+812,3288-BHBQB,2020-12-12,Paid,2021-06-10,Standard,Monthly,,,22.03,5519.0,7,Shalini Shah,India,Telangana,Female,1988-01-18,446.0,2023-08-03,N,18.0,0,1,33,31-40,Low
+813,2909-RUTMM,2023-08-11,Paid,2024-02-07,Premium,Monthly,,,39.56,4223.0,41,Manish Nair,India,Kerala,Male,1957-06-18,447.0,2026-05-26,Y,92.0,0,1,66,61-70,Low
+814,6709-SAXAR,2021-10-02,Organic,2022-03-31,Standard,Monthly,,,19.6,3809.0,31,Manoj Mehta,India,Jharkhand,Male,1955-10-05,449.0,2025-11-20,N,52.0,0,1,66,61-70,Low
+815,3575-QKXSV,2024-05-28,Paid,2024-11-24,Basic,Monthly,,,6.56,712.0,49,Deepika Iyer,India,Maharashtra,Female,2000-11-21,450.0,2025-09-05,N,66.0,0,1,24,21-30,Low
+816,5509-JWLJJ,2024-04-25,Trial,2024-07-24,Standard,Monthly,,,16.95,5659.0,1,Neha Kumar,India,Andhra Pradesh,Female,1976-07-23,,,,,0,0,48,41-50,Low
+817,4843-JPNNZ,2024-12-23,Partner,2025-05-22,Basic,Monthly,,,9.2,1202.0,48,Harsh Krishnan,India,Gujarat,Male,1985-10-14,455.0,2026-07-15,N,53.0,0,1,39,31-40,Low
+818,9146-FKDRE,2025-07-20,Organic,2026-12-31,Standard,Annual,,,17.33,5260.0,26,Tanya Naidu,India,West Bengal,Female,1985-02-10,459.0,2025-11-09,Y,56.0,0,1,40,31-40,Low
+819,4817-QDRBW,2024-04-19,Paid,2024-09-16,Basic,Monthly,2025-07-31,Poor customer support,11.75,291.0,65,Keshav Shah,India,Andhra Pradesh,Male,1965-10-01,460.0,2024-08-14,Y,61.0,1,1,59,51-60,Medium
+820,9329-QELYF,2023-12-04,Paid,2024-05-02,Standard,Monthly,,,22.3,1458.0,48,Gaurav Bansal,India,West Bengal,Male,1983-02-12,462.0,2024-03-30,N,9.0,0,1,41,41-50,Low
+821,1442-EVPWP,2023-10-10,Paid,2024-02-07,Basic,Monthly,,,11.19,4755.0,28,Pallavi Tiwari,India,Bihar,Female,1955-06-02,464.0,2025-07-12,Y,21.0,0,1,68,61-70,Low
+822,0067-WZHHY,2021-06-15,Trial,2021-08-14,Basic,Monthly,,,9.2,4598.0,54,Ritu Singh,India,Tamil Nadu,Female,1989-05-30,,,,,0,0,32,31-40,Medium
+823,8524-VSLPX,2024-05-11,Organic,2024-07-10,Premium,Monthly,,,43.5,2664.0,45,Suresh Yadav,India,Haryana,Male,1971-11-27,466.0,2026-02-26,N,20.0,0,1,52,51-60,Low
+824,0359-USFDM,2026-06-25,Paid,2026-10-23,Basic,Monthly,2026-08-21,Switched to competitor,8.73,50.0,73,Ajay Malhotra,India,Chandigarh,Male,1959-05-12,472.0,2026-08-15,N,95.0,1,1,67,61-70,High
+825,2024-TJRYE,2022-04-30,Trial,2023-04-30,Basic,Annual,,,8.9,5429.0,11,Vijay Sharma,India,Kerala,Male,1992-10-04,473.0,2025-12-30,N,57.0,0,1,30,21-30,Low
+826,1718-SZVDK,2020-02-23,Paid,2020-07-22,Basic,Monthly,,,10.2,3705.0,13,Reyansh Yadav,India,Gujarat,Male,1972-12-02,474.0,2026-02-23,N,33.0,0,1,47,41-50,Low
+827,8132-GYRLH,2021-12-08,Referral,2022-05-07,Premium,Monthly,,,35.04,4257.0,32,Aarav Nair,India,Tamil Nadu,Male,2006-07-05,478.0,2024-10-12,N,58.0,0,1,15,11-20,Low
+828,7483-KJQBD,2019-03-31,Paid,2020-03-31,Standard,Annual,,,16.53,4284.0,14,Aditya Bhat,India,Haryana,Male,1983-01-20,479.0,2026-03-16,Y,70.0,0,1,36,31-40,Low
+829,7171-VJZCM,2025-10-07,Trial,2026-10-07,Basic,Annual,,,10.82,1783.0,36,Pooja Menon,India,Bihar,Female,1990-11-28,483.0,2025-10-13,N,44.0,0,1,35,31-40,Low
+830,0960-FDPUR,2020-08-16,Organic,2023-08-16,Standard,Annual,2021-01-11,Poor customer support,15.24,662.0,81,Pooja Trivedi,India,Bihar,Female,1987-03-04,484.0,2021-01-03,N,4.0,1,1,33,31-40,High
+831,1037-JWLAY,2021-07-02,Paid,2021-12-29,Basic,Monthly,2022-02-09,Too expensive,8.63,512.0,94,Sunil Bansal,India,Andhra Pradesh,Male,2001-12-06,,,,,1,0,20,11-20,High
+832,9147-VBAWF,2020-11-28,Paid,2020-12-28,Basic,Monthly,2021-08-18,Poor customer support,9.62,841.0,97,Radhika Rao,India,Delhi,Female,1999-02-09,485.0,2021-05-02,N,37.0,1,1,22,21-30,High
+833,6607-HCQQU,2023-06-29,Organic,2023-11-26,Premium,Monthly,,,42.24,4565.0,50,Myra Yadav,India,Odisha,Female,1983-05-10,486.0,2026-02-14,Y,17.0,0,1,40,31-40,Medium
+834,0002-CVVWK,2026-05-11,Paid,2026-12-31,Standard,Annual,,,20.39,2886.0,3,Manoj Mishra,India,Punjab,Male,1987-08-07,490.0,2026-06-10,N,0.0,0,1,39,31-40,Low
+835,5952-YQDDX,2020-10-22,Trial,2021-03-21,Basic,Monthly,,,6.76,3050.0,50,Aarav Bansal,India,Haryana,Male,1981-03-12,492.0,2026-02-23,N,59.0,0,1,40,31-40,Medium
+836,6704-DJVGG,2023-09-07,Paid,2023-10-07,Standard,Monthly,,,19.87,3844.0,0,Deepak Joshi,India,Odisha,Male,1972-02-05,493.0,2026-04-24,N,74.0,0,1,52,51-60,Low
+837,9655-SERAS,2019-11-12,Referral,2022-11-12,Standard,Annual,,,24.52,2292.0,55,Siddharth Bose,India,Goa,Male,1998-04-29,495.0,2025-06-15,N,41.0,0,1,22,21-30,Medium
+838,9839-VLSNP,2020-01-23,Trial,2020-04-22,Basic,Monthly,,,10.16,1758.0,28,Rahul Ghosh,India,Punjab,Male,1981-05-23,500.0,2025-02-02,N,44.0,0,1,39,31-40,Low
+839,8975-LYZTW,2023-08-25,Paid,2026-08-25,Standard,Annual,,,16.39,5001.0,5,Aryan Joshi,India,Jharkhand,Male,1981-01-25,503.0,2026-02-15,Y,81.0,0,1,43,41-50,Low
+840,5771-TRUUX,2021-05-15,Referral,2021-10-12,Standard,Monthly,2024-06-04,Switched to competitor,20.38,166.0,63,Payal Rathore,India,Kerala,Female,1992-11-22,505.0,2024-02-22,N,40.0,1,1,28,21-30,Medium
+841,2636-KXJEB,2021-04-28,Organic,2021-07-27,Basic,Monthly,2025-03-27,Other,12.93,167.0,70,Sneha Rathore,India,Karnataka,Female,1987-03-07,507.0,2022-02-12,N,27.0,1,1,34,31-40,High
+842,4712-YXBNN,2023-05-13,Paid,2023-07-12,Premium,Monthly,2026-05-26,Service issue,48.09,642.0,77,Payal Agarwal,India,Chandigarh,Female,1959-10-29,511.0,2025-11-19,N,23.0,1,1,64,61-70,High
+843,8955-ZVGZG,2019-05-31,Organic,2020-05-31,Basic,Annual,,,11.83,5226.0,10,Preeti Mehta,India,Delhi,Female,1971-10-10,512.0,2023-02-25,Y,72.0,0,1,48,41-50,Low
+844,2131-FUJAL,2023-01-03,Organic,2025-01-03,Basic,Annual,,,9.51,2220.0,52,Shalini Kumar,India,Karnataka,Female,1968-10-15,,,,,0,0,54,51-60,Medium
+845,5207-SHFSC,2025-09-14,Trial,2026-12-31,Standard,Annual,,,15.67,5245.0,13,Naveen Rathore,India,Chandigarh,Male,1991-03-12,515.0,2026-06-11,N,27.0,0,1,35,31-40,Low
+846,8691-RTWAD,2026-02-02,Paid,2026-12-31,Premium,Annual,,,47.4,871.0,17,Preeti Chopra,India,Jharkhand,Female,1976-11-15,516.0,2026-06-10,Y,54.0,0,1,49,41-50,Low
+847,4633-ASMSS,2025-09-24,Organic,2026-03-23,Basic,Monthly,,,12.14,2381.0,53,Radhika Gupta,India,Kerala,Female,1972-04-09,518.0,2026-04-23,Y,51.0,0,1,53,51-60,Medium
+848,3453-XWGXP,2024-07-14,Partner,2026-12-31,Premium,Annual,,,28.54,1839.0,45,Dev Rathore,India,Madhya Pradesh,Male,1961-06-21,520.0,2026-08-24,N,37.0,0,1,63,61-70,Low
+849,4127-TCUHJ,2023-07-21,Partner,2023-12-18,Basic,Monthly,,,7.62,1100.0,16,Kiran Pandey,India,Bihar,Female,1993-11-06,526.0,2026-05-17,N,46.0,0,1,30,21-30,Low
+850,9594-BYCMS,2021-05-01,Organic,2021-08-29,Standard,Monthly,2021-09-15,Not using service,15.02,58.0,75,Amit Pillai,India,Jharkhand,Male,1962-10-05,,,,,1,0,59,51-60,High
+851,3602-EZNTK,2024-04-10,Referral,2026-12-31,Standard,Annual,2026-01-01,Poor customer support,22.52,421.0,79,Sandeep Mukherjee,India,Maharashtra,Male,2004-08-28,,,,,1,0,20,11-20,High
+852,1394-KGZZZ,2025-06-30,Referral,2025-11-27,Basic,Monthly,,,11.1,5259.0,39,Sneha Sengupta,India,Andhra Pradesh,Female,1967-10-12,527.0,2025-08-27,Y,36.0,0,1,58,51-60,Low
+853,9294-BTQWT,2020-12-21,Organic,2022-12-21,Standard,Annual,,,23.8,1061.0,48,Amit Reddy,India,Telangana,Male,1963-10-23,530.0,2025-01-31,N,55.0,0,1,57,51-60,Low
+854,1143-GLRQL,2023-09-11,Paid,2026-09-11,Basic,Annual,,,7.5,4009.0,27,Rashmi Subramaniam,India,Uttar Pradesh,Female,2005-09-27,531.0,2025-03-28,N,83.0,0,1,18,11-20,Low
+855,3629-YZWPJ,2019-04-28,Referral,2019-07-27,Basic,Monthly,,,7.57,1776.0,45,Anika Bansal,India,Assam,Female,1996-07-10,536.0,2026-08-09,N,5.0,0,1,23,21-30,Low
+856,1343-JETGJ,2022-06-05,Paid,2022-09-03,Basic,Monthly,2025-12-19,Not using service,11.95,880.0,74,Kunal Reddy,India,Maharashtra,Male,2000-07-02,537.0,2025-07-30,Y,37.0,1,1,22,21-30,High
+857,8904-TRWEM,2019-09-09,Paid,2019-12-08,Premium,Monthly,,,31.62,1071.0,0,Kavita Subramaniam,India,Kerala,Female,1967-01-05,538.0,2023-10-04,N,65.0,0,1,53,51-60,Low
+858,2717-SEQFF,2025-02-07,Paid,2025-07-07,Standard,Monthly,,,15.84,1572.0,17,Rakesh Tiwari,India,Haryana,Male,1958-08-17,539.0,2025-09-21,Y,8.0,0,1,66,61-70,Low
+859,3387-SMNRQ,2026-06-29,Paid,2026-09-27,Standard,Monthly,2026-09-05,Service issue,23.19,471.0,88,Aditya Agarwal,India,Tamil Nadu,Male,2001-10-10,541.0,2026-08-19,N,85.0,1,1,25,21-30,High
+860,6201-MUWCS,2022-12-08,Organic,2023-04-07,Premium,Monthly,,,43.65,3712.0,21,Kiran Desai,India,Andhra Pradesh,Female,1991-05-30,544.0,2025-04-10,N,21.0,0,1,32,31-40,Low
+861,2276-QFHCS,2022-01-27,Paid,2022-04-27,Premium,Monthly,2025-03-06,Not using service,33.4,247.0,64,Sneha Kumar,India,West Bengal,Female,1969-02-12,,,,,1,0,53,51-60,Medium
+862,7844-RGUFW,2024-03-29,Paid,2026-03-29,Basic,Annual,,,8.09,5489.0,43,Ananya Chopra,India,Karnataka,Female,1966-06-22,547.0,2025-08-24,N,50.0,0,1,58,51-60,Low
+863,4231-FSNVU,2025-12-29,Paid,2026-06-27,Premium,Monthly,,,46.63,878.0,49,Kunal Bhat,India,Delhi,Male,1974-06-07,551.0,2026-07-14,N,47.0,0,1,52,51-60,Low
+864,9546-FVXSJ,2019-04-22,Organic,2019-10-19,Basic,Monthly,,,7.86,588.0,11,Kunal Bansal,India,Odisha,Male,2007-12-26,552.0,2023-03-22,Y,13.0,0,1,11,11-20,Low
+865,8263-XPEVD,2026-02-10,Trial,2026-07-10,Basic,Monthly,,,8.66,5214.0,27,Keshav Trivedi,India,Jharkhand,Male,1958-07-03,554.0,2026-07-09,N,63.0,0,1,68,61-70,Low
+866,0019-XWPSP,2020-12-10,Organic,2021-01-09,Standard,Monthly,,,19.9,835.0,5,Diya Chauhan,India,Madhya Pradesh,Female,1975-08-03,556.0,2026-01-01,Y,29.0,0,1,45,41-50,Low
+867,4170-RHCKV,2026-01-04,Partner,2026-06-03,Standard,Monthly,,,21.43,2803.0,50,Anjali Shah,India,Maharashtra,Female,1955-08-22,557.0,2026-09-14,Y,54.0,0,1,70,61-70,Medium
+868,1746-EPWUJ,2020-06-03,Paid,2020-10-01,Standard,Monthly,,,14.01,1838.0,32,Ritika Bose,India,Goa,Female,1987-10-21,558.0,2021-05-06,N,98.0,0,1,33,31-40,Low
+869,6065-TTRJK,2022-01-11,Paid,2022-06-10,Basic,Monthly,,,9.61,2408.0,15,Yamini Ghosh,India,Uttar Pradesh,Female,1965-09-07,560.0,2024-06-09,N,44.0,0,1,56,51-60,Low
+870,9020-VYXYB,2021-05-04,Referral,2023-05-04,Basic,Annual,,,9.68,605.0,16,Ajay Sharma,India,Delhi,Male,1968-01-15,564.0,2024-03-05,N,54.0,0,1,53,51-60,Low
+871,9978-BZNNV,2024-09-10,Paid,2025-09-10,Premium,Annual,,,30.21,3443.0,11,Shalini Pandit,India,Karnataka,Female,1970-09-22,565.0,2025-03-25,N,76.0,0,1,54,51-60,Low
+872,8364-SYHVF,2025-12-15,Trial,2026-02-13,Standard,Monthly,,,18.94,477.0,53,Anil Chopra,India,Maharashtra,Male,1969-02-15,,,,,0,0,57,51-60,Medium
+873,0251-ZYCCT,2025-06-23,Partner,2026-12-31,Basic,Annual,,,9.91,5287.0,23,Tanya Naidu,India,Goa,Female,1986-03-25,568.0,2026-08-29,N,34.0,0,1,39,31-40,Low
+874,9419-AJFPS,2022-01-19,Partner,2023-01-19,Premium,Annual,,,46.77,5256.0,51,Siddharth Reddy,India,Andhra Pradesh,Male,1981-05-26,570.0,2024-01-12,N,11.0,0,1,41,41-50,Medium
+875,6178-URHLQ,2023-09-25,Paid,2025-09-25,Basic,Annual,,,11.87,2418.0,2,Deepika Verma,India,Assam,Female,1965-06-06,571.0,2026-02-22,N,11.0,0,1,58,51-60,Low
+876,0159-YJHKC,2024-02-19,Paid,2024-07-18,Standard,Monthly,,,14.4,2544.0,21,Payal Bansal,India,Delhi,Female,2004-10-01,575.0,2026-08-31,N,81.0,0,1,19,11-20,Low
+877,3115-RZGHZ,2020-07-12,Referral,2020-10-10,Premium,Monthly,,,32.58,5584.0,39,Manish Joshi,India,Rajasthan,Male,1973-03-11,579.0,2026-06-19,N,93.0,0,1,47,41-50,Low
+878,8071-VATBR,2023-07-05,Organic,2023-12-02,Standard,Monthly,,,18.94,4043.0,16,Kajal Agarwal,India,Assam,Female,2006-07-17,580.0,2026-01-14,Y,19.0,0,1,17,11-20,Low
+879,8613-PRTBS,2019-03-09,Paid,2020-03-09,Basic,Annual,,,11.98,3849.0,55,Nisha Mehta,India,Odisha,Female,1965-10-19,582.0,2024-11-12,N,15.0,0,1,53,51-60,Medium
+880,5924-VJFTJ,2025-07-21,Paid,2026-07-21,Premium,Annual,2026-09-12,Switched to competitor,47.79,316.0,93,Rahul Tiwari,India,Jharkhand,Male,1985-10-12,591.0,2026-07-21,N,26.0,1,1,40,31-40,High
+881,4581-QFUEU,2024-01-10,Paid,2026-12-31,Basic,Annual,,,8.92,3074.0,41,Reyansh Kapoor,India,Rajasthan,Male,2004-10-27,593.0,2025-07-09,Y,25.0,0,1,19,11-20,Low
+882,8185-EWSTZ,2019-11-10,Referral,2021-11-10,Standard,Annual,,,21.54,2436.0,18,Radhika Pillai,India,Telangana,Female,2005-06-07,595.0,2025-12-02,N,20.0,0,1,14,11-20,Low
+883,1577-QZLJM,2025-04-24,Partner,2025-07-23,Standard,Monthly,,,21.63,3863.0,40,Bhavna Naidu,India,Telangana,Female,1985-11-15,597.0,2026-04-13,N,78.0,0,1,39,31-40,Low
+884,8821-FKMLX,2025-06-15,Referral,2026-12-31,Basic,Annual,,,12.47,5589.0,1,Yamini Pandey,India,Delhi,Female,1989-03-09,600.0,2026-08-29,N,10.0,0,1,36,31-40,Low
+885,1168-CFLHL,2022-10-04,Organic,2023-10-04,Standard,Annual,,,22.69,673.0,19,Madhuri Bhat,India,Telangana,Female,1990-06-24,603.0,2025-01-21,N,83.0,0,1,32,31-40,Low
+886,0378-EZHXJ,2020-07-09,Partner,2020-12-06,Standard,Monthly,,,15.95,4699.0,30,Dev Rao,India,Bihar,Male,1964-03-29,604.0,2026-01-24,N,77.0,0,1,56,51-60,Low
+887,1363-DJVEC,2025-08-04,Paid,2025-09-03,Basic,Monthly,,,8.09,756.0,21,Ritu Desai,India,Rajasthan,Female,1980-06-29,609.0,2026-04-15,N,2.0,0,1,45,41-50,Low
+888,5328-RQTJT,2021-09-12,Referral,2022-09-12,Premium,Annual,,,36.26,2764.0,55,Anika Rathore,India,West Bengal,Female,1995-12-17,610.0,2024-08-19,Y,72.0,0,1,26,21-30,Medium
+889,1467-QKMPJ,2024-10-07,Trial,2025-03-06,Basic,Monthly,,,11.28,2302.0,36,Sandeep Sharma,India,Maharashtra,Male,2001-12-13,613.0,2026-04-30,N,86.0,0,1,23,21-30,Low
+890,7052-KVHAT,2023-07-26,Partner,2026-07-26,Premium,Annual,,,30.69,992.0,1,Neha Sengupta,India,Chandigarh,Female,1994-03-20,618.0,2025-10-04,Y,5.0,0,1,29,21-30,Low
+891,3924-SVYXJ,2019-03-31,Organic,2019-07-29,Premium,Monthly,,,39.17,5300.0,5,Madhuri Rathore,India,Telangana,Female,1992-01-17,623.0,2025-09-09,N,86.0,0,1,27,21-30,Low
+892,4458-YVRGL,2026-04-10,Paid,2026-12-31,Standard,Annual,2026-09-12,Poor customer support,19.53,586.0,82,Ishaan Patel,India,Chandigarh,Male,1956-12-26,626.0,2026-06-09,N,64.0,1,1,69,61-70,High
+893,2468-ARGLP,2023-03-21,Organic,2023-05-20,Basic,Monthly,2024-05-21,Other,8.28,270.0,87,Radhika Mukherjee,India,Odisha,Female,1957-11-05,627.0,2024-01-22,N,69.0,1,1,65,61-70,High
+894,2975-GJNAD,2021-11-05,Paid,2024-11-05,Basic,Annual,,,7.8,2303.0,24,Ajay Pandey,India,Rajasthan,Male,1958-01-03,630.0,2026-07-26,N,81.0,0,1,64,61-70,Low
+895,5113-LFWZB,2021-08-10,Paid,2023-08-10,Basic,Annual,,,7.36,1027.0,26,Manish Tiwari,India,Kerala,Male,1972-10-29,631.0,2023-06-29,N,69.0,0,1,49,41-50,Low
+896,4523-UDNHA,2024-05-06,Organic,2024-06-05,Standard,Monthly,,,23.7,2593.0,19,Harsh Tiwari,India,Jharkhand,Male,1968-11-26,,,,,0,0,55,51-60,Low
+897,0983-BMWEY,2023-01-03,Referral,2023-03-04,Premium,Monthly,,,35.91,3941.0,25,Krishna Yadav,India,Rajasthan,Male,1983-06-01,632.0,2025-08-11,N,78.0,0,1,40,31-40,Low
+898,2207-JBRYQ,2025-01-13,Paid,2026-12-31,Basic,Annual,,,12.36,2470.0,31,Ritika Yadav,India,Gujarat,Female,2005-11-03,636.0,2026-01-31,N,74.0,0,1,19,11-20,Low
+899,8702-EQKJT,2024-07-23,Trial,2026-12-31,Premium,Annual,,,42.41,4415.0,18,Isha Sharma,India,Andhra Pradesh,Female,1989-01-02,638.0,2025-02-21,N,0.0,0,1,36,31-40,Low
+900,8830-NGSXR,2022-10-01,Paid,2022-12-30,Basic,Monthly,,,11.24,525.0,55,Tarun Bhat,India,Punjab,Male,1991-10-07,641.0,2024-01-08,Y,48.0,0,1,31,31-40,Medium
+901,3310-DRGDB,2021-09-10,Referral,2021-12-09,Standard,Monthly,,,17.09,4232.0,1,Nidhi Yadav,India,Andhra Pradesh,Female,2007-12-16,644.0,2025-10-31,N,42.0,0,1,14,11-20,Low
+902,1310-QWBMT,2023-09-22,Referral,2023-12-21,Basic,Monthly,2025-08-01,Poor customer support,8.45,717.0,73,Lata Patel,India,Jharkhand,Female,1978-11-06,649.0,2025-01-17,N,30.0,1,1,45,41-50,High
+903,3784-TNGGS,2021-05-01,Paid,2022-05-01,Standard,Annual,,,21.07,574.0,17,Abhishek Mehta,India,Chandigarh,Male,2005-01-27,,,,,0,0,16,11-20,Low
+904,2955-TNSLX,2023-08-03,Paid,2023-11-01,Basic,Monthly,,,7.69,2300.0,21,Varun Pandit,India,Odisha,Male,1986-08-10,651.0,2025-09-11,N,12.0,0,1,37,31-40,Low
+905,9226-TGNTZ,2024-11-21,Trial,2025-11-21,Premium,Annual,,,36.13,1940.0,11,Lata Pandey,India,Odisha,Female,1990-08-16,653.0,2025-06-06,N,57.0,0,1,34,31-40,Low
+906,4945-AKHGL,2020-06-17,Trial,2020-12-14,Standard,Monthly,,,21.51,601.0,55,Om Kapoor,India,Chandigarh,Male,2000-11-13,,,,,0,0,20,11-20,Medium
+907,2267-JMUHH,2021-12-01,Referral,2021-12-31,Premium,Monthly,,,27.88,2820.0,52,Ritu Nair,India,Goa,Female,1990-11-13,654.0,2022-02-28,N,10.0,0,1,31,31-40,Medium
+908,9440-DVWKB,2025-07-23,Trial,2026-12-31,Standard,Annual,,,14.85,4411.0,38,Myra Patel,India,Punjab,Female,1986-03-19,655.0,2026-07-23,N,87.0,0,1,39,31-40,Low
+909,8591-BLTUE,2025-05-14,Referral,2025-10-11,Basic,Monthly,2026-09-10,Service issue,6.55,270.0,92,Sonal Desai,India,Uttar Pradesh,Female,1959-07-14,658.0,2026-08-22,N,67.0,1,1,66,61-70,High
+910,6460-EELCR,2024-01-09,Organic,2024-04-08,Basic,Monthly,,,8.17,1061.0,27,Siddharth Ghosh,India,Telangana,Male,1962-08-19,,,,,0,0,61,61-70,Low
+911,9360-GTVZS,2024-09-22,Organic,2024-12-21,Standard,Monthly,,,21.35,5080.0,46,Karthik Reddy,India,Telangana,Male,1993-08-01,659.0,2026-04-12,N,12.0,0,1,31,31-40,Low
+912,3120-LMVWA,2023-08-13,Paid,2024-08-13,Standard,Annual,,,18.21,3354.0,1,Priya Chatterjee,India,Jharkhand,Female,1994-09-03,664.0,2026-04-01,N,91.0,0,1,29,21-30,Low
+913,1405-DZBHV,2020-06-29,Paid,2023-06-29,Basic,Annual,,,8.61,2562.0,4,Amit Sharma,India,Punjab,Male,1964-12-25,665.0,2025-02-01,N,41.0,0,1,56,51-60,Low
+914,8573-JTRVZ,2020-11-03,Organic,2021-05-02,Standard,Monthly,2023-04-17,Service issue,15.98,373.0,61,Vijay Verma,India,Bihar,Male,2007-04-21,669.0,2021-06-02,N,4.0,1,1,14,11-20,Medium
+915,7617-WACNX,2022-02-13,Partner,2023-02-13,Standard,Annual,2022-07-05,Service issue,18.64,271.0,64,Nidhi Mukherjee,India,Tamil Nadu,Female,1956-09-17,,,,,1,0,65,61-70,Medium
+916,7940-VTCFG,2019-12-28,Referral,2020-02-26,Basic,Monthly,2023-05-20,Too expensive,8.14,514.0,76,Bhavna Verma,India,Karnataka,Female,1977-03-12,670.0,2021-03-25,N,85.0,1,1,43,41-50,High
+917,5822-WKHSJ,2024-08-11,Paid,2024-10-10,Basic,Monthly,2025-08-11,Not using service,8.11,338.0,76,Vinay Malhotra,India,Bihar,Male,1957-08-23,671.0,2025-03-31,Y,31.0,1,1,67,61-70,High
+918,6262-SXVWX,2020-02-27,Paid,2023-02-27,Premium,Annual,,,29.99,4239.0,32,Naveen Chopra,India,Goa,Male,1968-09-14,674.0,2025-01-23,N,19.0,0,1,51,51-60,Low
+919,2270-UTXGE,2026-03-27,Paid,2026-09-23,Basic,Monthly,,,12.4,3628.0,55,Rashmi Chauhan,India,Uttar Pradesh,Female,1993-08-01,676.0,2026-09-12,N,8.0,0,1,33,31-40,Medium
+920,1939-FLEZA,2023-08-22,Paid,2023-10-21,Premium,Monthly,2024-11-10,Service issue,33.25,567.0,64,Swati Sengupta,India,Kerala,Female,1994-09-29,680.0,2024-10-02,Y,65.0,1,1,29,21-30,Medium
+921,4372-VUVHV,2021-02-08,Paid,2021-06-08,Basic,Monthly,,,7.86,943.0,34,Yash Verma,India,Haryana,Male,1962-02-17,686.0,2022-11-14,Y,4.0,0,1,59,51-60,Low
+922,2253-FGHBP,2022-12-01,Paid,2023-05-30,Standard,Monthly,2023-08-31,Poor customer support,19.91,666.0,95,Rahul Sengupta,India,Rajasthan,Male,1973-03-13,687.0,2023-01-19,N,27.0,1,1,50,41-50,High
+923,7005-NBVZN,2022-09-04,Paid,2025-09-04,Standard,Annual,,,22.89,922.0,43,Nisha Trivedi,India,Goa,Female,2003-02-06,690.0,2025-09-20,N,87.0,0,1,20,11-20,Low
+924,0694-HSTNZ,2020-11-30,Trial,2021-04-29,Standard,Monthly,,,17.96,1206.0,55,Siddharth Das,India,Andhra Pradesh,Male,1959-06-04,692.0,2022-03-01,N,98.0,0,1,61,61-70,Medium
+925,0893-YSEQW,2023-03-24,Referral,2023-04-23,Standard,Monthly,,,19.91,4662.0,19,Myra Thakur,India,Tamil Nadu,Female,1971-02-16,,,,,0,0,52,51-60,Low
+926,2930-QUYGQ,2025-05-31,Paid,2026-05-31,Premium,Annual,,,43.57,2415.0,4,Manish Agarwal,India,West Bengal,Male,1966-01-31,,,,,0,0,59,51-60,Low
+927,8383-VFNTN,2023-04-27,Paid,2025-04-27,Basic,Annual,,,11.71,5945.0,6,Om Rao,India,Punjab,Male,2005-09-25,695.0,2025-12-12,Y,97.0,0,1,18,11-20,Low
+928,7311-KWFDE,2025-10-27,Partner,2026-10-27,Standard,Annual,,,16.65,1132.0,47,Aarav Trivedi,India,Telangana,Male,1956-02-05,,,,,0,0,70,61-70,Low
+929,9647-XRQPQ,2020-12-11,Paid,2021-01-10,Basic,Monthly,,,7.34,3589.0,18,Raghav Pandit,India,Maharashtra,Male,1976-12-14,697.0,2026-05-15,N,40.0,0,1,44,41-50,Low
+930,5718-BEBXU,2019-12-27,Paid,2020-12-27,Basic,Annual,,,8.48,2927.0,4,Rekha Nair,India,Karnataka,Female,1964-10-08,,,,,0,0,55,51-60,Low
+931,2906-QZUMB,2021-07-04,Paid,2021-11-01,Basic,Monthly,,,6.06,1117.0,42,Om Pillai,India,Punjab,Male,1988-01-25,699.0,2024-12-27,N,73.0,0,1,33,31-40,Low
+932,4496-LSPSG,2019-07-14,Organic,2019-10-12,Premium,Monthly,,,40.72,2919.0,20,Tarun Patel,India,Tamil Nadu,Male,2006-04-05,,,,,0,0,13,11-20,Low
+933,4254-SUVME,2024-02-14,Paid,2024-05-14,Premium,Monthly,,,43.97,1280.0,19,Manisha Yadav,India,Assam,Female,1971-02-21,701.0,2025-06-22,N,19.0,0,1,53,51-60,Low
+934,1932-ZGVPP,2025-04-06,Organic,2025-09-03,Basic,Monthly,,,6.98,2486.0,38,Suresh Chatterjee,India,Chandigarh,Male,1974-01-18,702.0,2025-09-09,N,64.0,0,1,51,51-60,Low
+935,5307-ADXLL,2022-10-29,Paid,2025-10-29,Standard,Annual,,,24.27,3735.0,1,Tanya Krishnan,India,Jharkhand,Female,1957-08-12,703.0,2026-03-23,N,22.0,0,1,65,61-70,Low
+936,7546-TLQPZ,2020-03-04,Trial,2023-03-04,Standard,Annual,2020-08-01,Other,18.18,701.0,93,Nikhil Pillai,India,Goa,Male,1983-04-22,705.0,2020-06-09,Y,62.0,1,1,37,31-40,High
+937,4595-ALNWT,2020-06-26,Paid,2023-06-26,Basic,Annual,2023-05-23,Switched to competitor,6.85,753.0,69,Abhishek Pandit,India,Bihar,Male,1971-10-24,708.0,2023-01-24,N,42.0,1,1,49,41-50,Medium
+938,3893-MQKGS,2019-12-09,Organic,2022-12-09,Standard,Annual,,,18.41,5364.0,53,Pooja Menon,India,Haryana,Female,1958-05-10,711.0,2022-05-04,N,44.0,0,1,62,61-70,Medium
+939,5572-RZSKL,2025-05-17,Organic,2025-08-15,Premium,Monthly,,,30.64,1007.0,51,Om Iyer,India,Andhra Pradesh,Male,1966-11-27,712.0,2026-01-07,N,33.0,0,1,58,51-60,Medium
+940,0721-XVCLQ,2019-01-16,Paid,2019-07-15,Standard,Monthly,,,22.79,3181.0,40,Reyansh Chauhan,India,Kerala,Male,1957-01-06,713.0,2024-08-11,N,63.0,0,1,62,61-70,Low
+941,5228-QXDJE,2024-07-09,Paid,2025-07-09,Basic,Annual,2024-09-08,Too expensive,6.33,323.0,89,Rahul Menon,India,Maharashtra,Male,2005-03-16,,,,,1,0,19,11-20,High
+942,4641-UHFCK,2025-04-08,Paid,2025-09-05,Standard,Monthly,,,22.85,1485.0,7,Ritika Pandey,India,Karnataka,Female,1966-09-02,716.0,2025-05-13,N,30.0,0,1,59,51-60,Low
+943,2932-YVUWY,2025-11-03,Paid,2025-12-03,Basic,Monthly,,,11.01,5563.0,32,Kajal Chatterjee,India,Kerala,Female,1984-10-24,717.0,2026-07-21,N,79.0,0,1,41,41-50,Low
+944,7672-DQKXW,2019-04-05,Organic,2020-04-05,Basic,Annual,,,9.6,2659.0,2,Aishwarya Desai,India,Rajasthan,Female,1967-11-23,718.0,2026-09-08,N,72.0,0,1,51,51-60,Low
+945,0495-CRDMR,2025-03-12,Paid,2026-12-31,Standard,Annual,,,16.87,2761.0,54,Priya Bhat,India,Haryana,Female,2006-07-23,720.0,2026-03-19,N,94.0,0,1,19,11-20,Medium
+946,8728-QNUPH,2024-05-08,Paid,2024-08-06,Premium,Monthly,2026-01-21,Too expensive,49.5,135.0,76,Siddharth Rao,India,Assam,Male,1989-06-07,722.0,2025-04-29,N,28.0,1,1,35,31-40,High
+947,3869-FXXCZ,2026-02-12,Referral,2026-08-11,Standard,Monthly,,,18.78,1068.0,2,Saanvi Subramaniam,India,Jharkhand,Female,1996-07-12,,,,,0,0,30,21-30,Low
+948,9771-NLRWX,2023-05-13,Paid,2023-10-10,Premium,Monthly,,,29.22,4466.0,33,Sai Joshi,India,Uttar Pradesh,Male,2007-02-07,724.0,2023-12-11,Y,81.0,0,1,16,11-20,Low
+949,7326-GGXLK,2024-09-21,Paid,2025-02-18,Premium,Monthly,,,42.72,906.0,15,Pallavi Chatterjee,India,Delhi,Female,2007-04-12,725.0,2025-01-08,Y,42.0,0,1,17,11-20,Low
+950,8992-BAYTM,2021-04-23,Paid,2021-06-22,Premium,Monthly,,,29.06,1022.0,1,Amit Verma,India,Rajasthan,Male,1993-09-24,728.0,2026-03-23,Y,27.0,0,1,28,21-30,Low
+951,2841-REGTN,2020-02-05,Organic,2020-05-05,Premium,Monthly,,,26.21,2569.0,37,Swati Kumar,India,Kerala,Female,1966-04-06,,,,,0,0,54,51-60,Low
+952,6813-QYVPV,2026-06-18,Organic,2026-07-18,Premium,Monthly,2026-07-19,Switched to competitor,39.85,174.0,81,Sanjay Thakur,India,Madhya Pradesh,Male,2004-07-11,729.0,2026-06-28,N,71.0,1,1,22,21-30,High
+953,3878-YSJPT,2021-11-16,Partner,2024-11-16,Standard,Annual,,,22.41,4965.0,10,Diya Gupta,India,Goa,Female,1998-05-10,731.0,2026-02-13,N,73.0,0,1,24,21-30,Low
+954,1281-SVCHR,2022-04-02,Paid,2025-04-02,Standard,Annual,,,16.85,2211.0,23,Ashok Rathore,India,Goa,Male,1983-01-13,733.0,2025-05-26,N,66.0,0,1,39,31-40,Low
+955,7687-UZLPM,2022-06-14,Paid,2022-12-11,Standard,Monthly,,,23.7,5539.0,13,Shreya Rao,India,Karnataka,Female,1982-04-12,736.0,2025-11-29,N,76.0,0,1,40,31-40,Low
+956,4780-ZVAKR,2019-08-19,Partner,2019-12-17,Basic,Monthly,,,10.59,4859.0,51,Krishna Thakur,India,Delhi,Male,1979-12-05,740.0,2024-07-15,N,29.0,0,1,40,31-40,Medium
+957,9695-ZEXQM,2021-11-13,Partner,2022-05-12,Standard,Monthly,,,20.88,3017.0,53,Manish Chopra,India,Assam,Male,1971-03-22,741.0,2023-01-14,N,85.0,0,1,51,51-60,Medium
+958,6765-NHXQZ,2023-04-06,Organic,2026-04-06,Basic,Annual,,,8.56,5735.0,34,Dev Krishnan,India,Haryana,Male,1959-11-16,742.0,2024-12-23,N,40.0,0,1,63,61-70,Low
+959,7803-ZTHNX,2021-01-30,Partner,2022-01-30,Basic,Annual,,,11.01,4616.0,7,Aishwarya Malhotra,India,Uttar Pradesh,Female,2002-08-03,746.0,2023-09-08,N,41.0,0,1,18,11-20,Low
+960,8704-WMPVW,2021-06-13,Paid,2021-11-10,Basic,Monthly,,,12.28,2741.0,34,Rekha Kapoor,India,Telangana,Female,1963-10-26,,,,,0,0,58,51-60,Low
+961,2947-LTAXA,2023-09-27,Referral,2024-01-25,Standard,Monthly,,,14.19,4819.0,51,Aarav Sengupta,India,Tamil Nadu,Male,2002-02-14,748.0,2026-08-17,N,45.0,0,1,22,21-30,Medium
+962,1506-BVXGV,2021-06-15,Referral,2021-11-12,Basic,Monthly,,,8.27,950.0,9,Vishal Menon,India,Delhi,Male,1966-08-27,753.0,2025-11-16,N,91.0,0,1,55,51-60,Low
+963,1240-WQJPY,2021-08-04,Paid,2023-08-04,Basic,Annual,,,8.25,3001.0,45,Anjali Rao,India,Delhi,Female,1979-11-17,758.0,2025-02-16,N,3.0,0,1,42,41-50,Low
+964,8056-GVNFW,2025-09-22,Organic,2026-12-31,Premium,Annual,,,37.72,1012.0,17,Pari Kumar,India,Chandigarh,Female,1993-09-09,760.0,2026-03-30,N,5.0,0,1,32,31-40,Low
+965,9360-ZJQAR,2019-09-21,Organic,2019-11-20,Basic,Monthly,,,10.78,1285.0,20,Manoj Sharma,India,Karnataka,Male,1990-01-12,,,,,0,0,30,21-30,Low
+966,8039-RPNZC,2026-04-24,Paid,2026-06-23,Standard,Monthly,,,16.82,3213.0,26,Aarav Das,India,Assam,Male,1965-11-15,761.0,2026-07-02,N,88.0,0,1,60,51-60,Low
+967,1485-MTLCQ,2022-07-27,Paid,2023-07-27,Basic,Annual,,,8.16,4636.0,28,Madhuri Shah,India,West Bengal,Female,2004-09-29,763.0,2024-05-14,Y,54.0,0,1,18,11-20,Low
+968,7175-ZGEBG,2025-09-18,Paid,2026-02-15,Premium,Monthly,,,45.4,4431.0,22,Kunal Subramaniam,India,Rajasthan,Male,1998-11-22,764.0,2026-07-25,Y,91.0,0,1,27,21-30,Low
+969,0268-BLBLZ,2021-01-22,Paid,2022-01-22,Basic,Annual,,,11.85,5015.0,20,Deepak Menon,India,Gujarat,Male,2001-12-06,771.0,2026-01-27,N,23.0,0,1,19,11-20,Low
+970,2319-RWARV,2024-05-01,Organic,2026-12-31,Basic,Annual,,,7.0,2061.0,34,Karthik Singh,India,Maharashtra,Male,1970-06-15,776.0,2026-03-27,Y,3.0,0,1,54,51-60,Low
+971,1742-DRVVH,2022-06-04,Organic,2022-07-04,Standard,Monthly,,,18.5,2381.0,33,Aryan Bose,India,Punjab,Male,1991-01-25,777.0,2025-12-10,Y,4.0,0,1,31,31-40,Low
+972,9717-FLCDJ,2023-11-21,Organic,2024-04-19,Basic,Monthly,,,10.43,366.0,17,Parth Sengupta,India,West Bengal,Male,1988-03-09,778.0,2026-01-22,N,2.0,0,1,36,31-40,Low
+973,6162-FARCA,2021-04-15,Paid,2021-07-14,Basic,Monthly,,,11.86,2282.0,28,Kabir Nair,India,Goa,Male,1980-06-15,781.0,2021-06-30,Y,91.0,0,1,41,41-50,Low
+974,6750-HFVYB,2023-03-15,Organic,2023-04-14,Standard,Monthly,,,22.21,2439.0,20,Vishal Yadav,India,Jharkhand,Male,1962-11-24,782.0,2026-09-11,N,67.0,0,1,60,51-60,Low
+975,1567-VMTSH,2022-01-21,Paid,2022-05-21,Basic,Monthly,2024-08-03,Poor customer support,7.07,815.0,77,Yamini Joshi,India,Telangana,Female,1959-10-05,784.0,2024-07-25,N,77.0,1,1,62,61-70,High
+976,0706-BWMKG,2023-07-09,Organic,2024-01-05,Basic,Monthly,2025-04-11,Not using service,10.39,114.0,96,Anjali Bansal,India,Jharkhand,Female,1995-08-27,790.0,2024-06-10,N,39.0,1,1,28,21-30,High
+977,1901-CHZQU,2020-03-14,Referral,2020-07-12,Basic,Monthly,,,12.86,5893.0,40,Swati Shah,India,Punjab,Female,1975-08-22,795.0,2025-06-28,Y,46.0,0,1,45,41-50,Low
+978,1204-RURBP,2020-09-20,Partner,2020-12-19,Basic,Monthly,,,12.86,5616.0,46,Dev Trivedi,India,Odisha,Male,1970-12-22,,,,,0,0,50,41-50,Low
+979,0525-YUBJE,2026-05-12,Paid,2026-08-10,Basic,Monthly,,,9.47,1436.0,35,Sanjay Mishra,India,Madhya Pradesh,Male,1970-05-11,796.0,2026-07-25,N,75.0,0,1,56,51-60,Low
+980,9056-HCPSR,2020-01-01,Trial,2020-05-30,Basic,Monthly,,,7.51,5553.0,30,Harsh Tiwari,India,Odisha,Male,1980-01-17,799.0,2022-09-18,N,80.0,0,1,40,31-40,Low
+981,9695-EUAPB,2024-09-28,Paid,2024-10-28,Standard,Monthly,,,20.16,3113.0,53,Keshav Thakur,India,Karnataka,Male,1993-03-11,800.0,2026-08-26,N,63.0,0,1,32,31-40,Medium
+982,0203-YZPGE,2019-12-03,Organic,2022-12-03,Premium,Annual,,,48.51,4258.0,29,Shreya Chopra,India,Delhi,Female,1956-06-05,805.0,2026-06-04,Y,95.0,0,1,63,61-70,Low
+983,7598-EYNFM,2023-03-15,Paid,2024-03-15,Basic,Annual,,,7.93,1653.0,38,Shalini Sharma,India,Delhi,Female,1989-07-12,808.0,2026-05-29,N,26.0,0,1,34,31-40,Low
+984,3393-XCVLZ,2022-10-20,Paid,2023-10-20,Basic,Annual,,,10.33,2303.0,43,Mohit Mukherjee,India,Karnataka,Male,1964-12-15,809.0,2024-05-03,N,44.0,0,1,58,51-60,Low
+985,1097-TYGEL,2024-10-20,Organic,2025-02-17,Basic,Monthly,,,7.89,2915.0,24,Varun Menon,India,Assam,Male,2007-01-17,811.0,2026-01-15,N,58.0,0,1,18,11-20,Low
+986,4540-BCMMQ,2025-07-13,Partner,2025-12-10,Standard,Monthly,,,17.32,2022.0,50,Sonal Chauhan,India,Tamil Nadu,Female,1997-03-07,815.0,2026-05-05,N,1.0,0,1,28,21-30,Medium
+987,1075-GQCCN,2026-02-28,Partner,2026-12-31,Basic,Annual,,,9.75,3663.0,21,Amit Reddy,India,Tamil Nadu,Male,1969-10-13,,,,,0,0,56,51-60,Low
+988,0371-KPXTE,2025-04-27,Paid,2025-09-24,Basic,Monthly,,,10.07,4288.0,3,Geeta Sengupta,India,Odisha,Female,1956-12-04,817.0,2026-03-27,N,100.0,0,1,68,61-70,Low
+989,5346-RUXYS,2023-07-17,Trial,2023-09-15,Standard,Monthly,,,15.23,4122.0,29,Isha Pillai,India,Goa,Female,1966-11-02,819.0,2026-01-14,N,61.0,0,1,57,51-60,Low
+990,0775-EMKQF,2020-05-26,Trial,2020-11-22,Standard,Monthly,,,24.44,2173.0,29,Vishal Rathore,India,Kerala,Male,1971-05-09,821.0,2020-08-08,N,46.0,0,1,49,41-50,Low
+991,9413-EQJMF,2022-03-24,Organic,2025-03-24,Basic,Annual,,,11.72,4262.0,34,Siddharth Gupta,India,Punjab,Male,1985-11-06,822.0,2023-10-22,Y,100.0,0,1,36,31-40,Low
+992,6628-REQLE,2020-06-30,Paid,2020-10-28,Premium,Monthly,,,38.0,3106.0,14,Rakesh Rathore,India,Andhra Pradesh,Male,1984-09-20,823.0,2025-08-20,N,16.0,0,1,36,31-40,Low
+993,1840-ZRBEX,2022-01-12,Organic,2022-06-11,Standard,Monthly,,,15.04,3364.0,41,Sandeep Verma,India,Bihar,Male,1974-10-08,828.0,2026-05-29,Y,57.0,0,1,47,41-50,Low
+994,4553-GACTQ,2024-03-30,Paid,2024-08-27,Standard,Monthly,,,23.46,3163.0,23,Mohit Ghosh,India,Gujarat,Male,1999-01-01,832.0,2025-06-09,N,2.0,0,1,25,21-30,Low
+995,7006-MNMAK,2025-03-13,Paid,2026-12-31,Standard,Annual,,,22.63,2769.0,38,Geeta Pillai,India,Odisha,Female,2005-05-01,834.0,2026-07-01,N,39.0,0,1,20,11-20,Low
+996,6944-ZPEUV,2024-06-21,Paid,2025-06-21,Standard,Annual,,,18.42,2450.0,33,Ishaan Joshi,India,Kerala,Male,1997-07-31,835.0,2026-08-18,N,36.0,0,1,27,21-30,Low
+997,4478-PFTQY,2026-01-16,Organic,2026-07-15,Standard,Monthly,,,16.61,5527.0,50,Aryan Mehta,India,Bihar,Male,1980-12-20,838.0,2026-05-15,N,32.0,0,1,45,41-50,Medium
+998,3678-AAEJK,2022-05-21,Paid,2022-10-18,Basic,Monthly,,,7.75,5490.0,28,Saanvi Bhat,India,Madhya Pradesh,Female,1971-02-03,840.0,2024-07-26,Y,87.0,0,1,51,51-60,Low
+999,1093-VZMUR,2020-01-29,Paid,2023-01-29,Premium,Annual,,,37.73,1319.0,18,Anjali Tiwari,India,Tamil Nadu,Female,1988-06-25,842.0,2022-01-18,N,12.0,0,1,32,31-40,Low
+1000,7553-YEMFB,2025-03-27,Paid,2025-09-23,Basic,Monthly,2026-08-19,Service issue,6.28,781.0,83,Lata Sengupta,India,Haryana,Female,1959-05-16,843.0,2026-02-03,N,7.0,1,1,66,61-70,High
+1001,2738-TLLXK,2023-07-07,Paid,2023-08-06,Standard,Monthly,2026-03-05,Service issue,23.06,744.0,99,Payal Mukherjee,India,Tamil Nadu,Female,2002-12-11,,,,,1,0,21,21-30,High
+1002,7944-PLFDG,2019-05-08,Organic,2019-09-05,Basic,Monthly,,,11.24,5593.0,50,Mohit Desai,India,Gujarat,Male,2005-02-13,,,,,0,0,14,11-20,Medium
+1003,1251-DEARM,2022-01-09,Referral,2022-06-08,Standard,Monthly,,,20.56,1101.0,43,Rashmi Mukherjee,India,Uttar Pradesh,Female,1994-08-25,846.0,2026-05-06,N,29.0,0,1,27,21-30,Low
+1004,2332-YHKEG,2023-06-18,Trial,2024-06-18,Basic,Annual,,,8.55,5095.0,49,Sai Bose,India,Tamil Nadu,Male,1961-12-22,848.0,2026-07-22,Y,89.0,0,1,61,61-70,Low
+1005,8412-UBRDJ,2023-10-04,Paid,2024-02-01,Standard,Monthly,,,16.17,3314.0,15,Arjun Pillai,India,Maharashtra,Male,1963-08-29,850.0,2025-06-10,N,33.0,0,1,60,51-60,Low
+1006,2384-ZJUMM,2022-12-29,Organic,2023-02-27,Standard,Monthly,2026-02-03,Switched to competitor,14.63,847.0,77,Mohit Trivedi,India,Rajasthan,Male,2000-04-18,858.0,2025-12-18,N,49.0,1,1,23,21-30,High
+1007,2814-TAZDG,2019-12-16,Trial,2020-02-14,Basic,Monthly,,,6.74,2529.0,4,Lata Subramaniam,India,West Bengal,Female,1994-06-11,859.0,2023-05-24,N,80.0,0,1,26,21-30,Low
+1008,1848-LDQDS,2021-02-15,Paid,2024-02-15,Standard,Annual,,,15.8,2157.0,39,Gaurav Mukherjee,India,Kerala,Male,2004-12-25,862.0,2025-09-09,Y,20.0,0,1,16,11-20,Low
+1009,5111-XQHTP,2023-11-06,Paid,2024-05-04,Standard,Monthly,,,19.27,812.0,28,Pallavi Shah,India,Delhi,Female,1997-09-03,863.0,2024-09-24,N,79.0,0,1,26,21-30,Low
+1010,1392-DENNY,2022-01-02,Referral,2025-01-02,Basic,Annual,2022-05-17,Poor customer support,11.97,873.0,74,Rakesh Rao,India,Delhi,Male,1987-08-19,864.0,2022-05-12,Y,59.0,1,1,34,31-40,High
+1011,4563-YUUJW,2023-01-31,Organic,2023-05-31,Standard,Monthly,,,22.94,1726.0,32,Geeta Tiwari,India,Jharkhand,Female,1991-04-14,869.0,2026-07-16,Y,37.0,0,1,32,31-40,Low
+1012,3781-WEADZ,2022-11-04,Paid,2023-03-04,Premium,Monthly,,,47.52,859.0,16,Arjun Yadav,India,Maharashtra,Male,1971-01-25,872.0,2026-07-29,N,18.0,0,1,52,51-60,Low
+1013,1253-XSRQG,2020-08-02,Partner,2020-12-30,Premium,Monthly,2021-05-17,Other,36.29,250.0,68,Nidhi Yadav,India,Assam,Female,2000-04-15,873.0,2020-08-06,N,13.0,1,1,20,11-20,Medium
+1014,1951-NQLNQ,2020-11-11,Paid,2021-03-11,Standard,Monthly,2021-07-20,Not using service,23.52,858.0,91,Diya Gupta,India,West Bengal,Female,2004-12-09,875.0,2021-07-06,Y,46.0,1,1,16,11-20,High
+1015,7986-DUXRX,2026-03-14,Referral,2026-08-11,Premium,Monthly,,,33.99,2908.0,25,Aishwarya Naidu,India,West Bengal,Female,2000-06-16,,,,,0,0,26,21-30,Low
+1016,4660-LBAUB,2024-01-24,Trial,2024-07-22,Standard,Monthly,2025-03-12,Other,24.05,336.0,80,Anil Chatterjee,India,Goa,Male,1957-05-31,876.0,2024-05-16,N,40.0,1,1,67,61-70,High
+1017,4001-HHWKU,2022-03-19,Trial,2022-08-16,Basic,Monthly,,,11.4,3106.0,48,Vijay Reddy,India,Kerala,Male,1965-04-08,880.0,2026-04-09,N,8.0,0,1,57,51-60,Low
+1018,6900-JAYRU,2019-12-16,Paid,2020-06-13,Premium,Monthly,,,49.18,1988.0,3,Vikram Das,India,Goa,Male,1990-01-06,881.0,2025-01-05,N,3.0,0,1,30,21-30,Low
+1019,5563-FVKMP,2025-03-13,Partner,2025-07-11,Standard,Monthly,,,20.51,3813.0,46,Gaurav Reddy,India,Chandigarh,Male,1974-03-16,,,,,0,0,51,51-60,Low
+1020,1506-YUDUL,2024-10-02,Paid,2026-10-02,Basic,Annual,,,7.95,3429.0,16,Kavya Krishnan,India,Andhra Pradesh,Female,1997-08-21,886.0,2026-08-26,N,1.0,0,1,27,21-30,Low
+1021,5133-GPNJV,2020-07-05,Paid,2020-09-03,Premium,Monthly,,,38.52,788.0,17,Nidhi Naidu,India,West Bengal,Female,1956-09-01,887.0,2024-10-13,N,88.0,0,1,64,61-70,Low
+1022,8728-VPUZW,2020-02-04,Paid,2020-03-05,Standard,Monthly,2023-01-09,Poor customer support,24.02,348.0,85,Nikhil Shah,India,Haryana,Male,1996-06-28,889.0,2021-08-11,Y,69.0,1,1,24,21-30,High
+1023,6757-JKWFJ,2024-04-03,Trial,2024-09-30,Basic,Monthly,,,12.93,1188.0,27,Deepak Chopra,India,Tamil Nadu,Male,1968-06-14,892.0,2025-02-20,N,8.0,0,1,56,51-60,Low
+1024,0606-GFJEA,2025-02-04,Paid,2025-03-06,Standard,Monthly,,,20.63,4254.0,41,Divya Naidu,India,West Bengal,Female,1958-10-15,893.0,2026-03-27,Y,19.0,0,1,66,61-70,Low
+1025,6668-MXXCN,2019-09-27,Organic,2019-12-26,Basic,Monthly,,,7.02,4528.0,54,Karthik Menon,India,Goa,Male,1999-11-18,895.0,2026-07-18,N,6.0,0,1,20,11-20,Medium
+1026,2003-LLUZN,2023-06-05,Referral,2023-11-02,Standard,Monthly,,,18.28,5799.0,14,Pradeep Joshi,India,Uttar Pradesh,Male,1964-08-01,898.0,2024-11-20,N,49.0,0,1,59,51-60,Low
+1027,8740-MYDLT,2020-10-24,Paid,2021-03-23,Basic,Monthly,,,8.79,1194.0,19,Aishwarya Chopra,India,Telangana,Female,1968-01-01,899.0,2026-06-03,N,14.0,0,1,53,51-60,Low
+1028,0895-YXHJT,2025-08-08,Organic,2025-10-07,Standard,Monthly,,,23.96,3469.0,1,Ritu Mukherjee,India,Tamil Nadu,Female,2002-12-27,903.0,2026-05-25,N,100.0,0,1,23,21-30,Low
+1029,3857-KGFQW,2021-10-21,Organic,2023-10-21,Standard,Annual,,,21.9,2744.0,14,Yamini Sengupta,India,Karnataka,Female,1979-08-02,905.0,2026-07-28,N,5.0,0,1,42,41-50,Low
+1030,1644-FYJSC,2020-06-19,Paid,2020-10-17,Standard,Monthly,,,24.56,4824.0,7,Swati Pandit,India,Chandigarh,Female,1984-04-25,907.0,2023-05-22,N,95.0,0,1,36,31-40,Low
+1031,5006-LUCDF,2019-10-11,Organic,2020-03-09,Basic,Monthly,2022-01-19,Poor customer support,7.3,523.0,60,Nikhil Singh,India,Jharkhand,Male,1991-10-24,,,,,1,0,28,21-30,Medium
+1032,3254-CPMFN,2022-02-09,Paid,2023-02-09,Premium,Annual,,,27.6,1434.0,25,Chitra Desai,India,Maharashtra,Female,1957-01-22,911.0,2024-08-06,Y,18.0,0,1,65,61-70,Low
+1033,2764-BNVPV,2022-10-28,Trial,2023-02-25,Standard,Monthly,,,15.91,505.0,48,Navya Nair,India,Haryana,Female,1970-04-06,912.0,2026-07-21,N,37.0,0,1,53,51-60,Low
+1034,3328-GJKZR,2025-03-04,Organic,2026-03-04,Standard,Annual,,,19.65,2199.0,38,Anika Bose,India,Gujarat,Female,1974-05-04,915.0,2026-05-14,N,60.0,0,1,51,51-60,Low
+1035,4289-HVQHM,2021-03-26,Organic,2021-06-24,Basic,Monthly,2024-10-18,Other,9.51,54.0,65,Myra Sharma,India,Assam,Female,1966-12-13,916.0,2023-11-08,N,94.0,1,1,54,51-60,Medium
+1036,1561-TBBLH,2023-07-31,Paid,2025-07-31,Basic,Annual,,,11.95,3391.0,16,Geeta Pandit,India,Jharkhand,Female,1959-01-31,917.0,2024-04-04,N,100.0,0,1,64,61-70,Low
+1037,9167-BUFJF,2025-06-08,Paid,2025-08-07,Standard,Monthly,,,14.28,685.0,19,Rekha Mishra,India,Uttar Pradesh,Female,1963-01-16,,,,,0,0,62,61-70,Low
+1038,2095-RJZMP,2019-12-29,Paid,2020-03-28,Standard,Monthly,,,20.27,5075.0,40,Anjali Trivedi,India,Telangana,Female,2001-05-19,919.0,2021-03-27,N,68.0,0,1,19,11-20,Low
+1039,7208-BGEBH,2024-05-29,Referral,2024-10-26,Basic,Monthly,,,11.65,4338.0,31,Aditya Tiwari,India,Telangana,Male,1969-09-03,923.0,2026-02-06,N,22.0,0,1,55,51-60,Low
+1040,8077-DZEDM,2019-11-30,Partner,2020-04-28,Standard,Monthly,,,17.79,4995.0,3,Dev Bhat,India,West Bengal,Male,1970-02-05,929.0,2026-06-18,N,36.0,0,1,50,41-50,Low
+1041,9351-FPCHR,2022-05-27,Paid,2024-05-27,Basic,Annual,2024-09-06,Service issue,8.66,878.0,94,Suresh Verma,India,Kerala,Male,1965-12-11,934.0,2023-07-14,N,21.0,1,1,56,51-60,High
+1042,7861-QWJVX,2021-08-07,Organic,2021-12-05,Standard,Monthly,,,16.29,1244.0,16,Suresh Gupta,India,Jharkhand,Male,1995-08-26,935.0,2022-12-13,N,28.0,0,1,26,21-30,Low
+1043,0909-ZCTVN,2025-04-01,Referral,2025-07-30,Premium,Monthly,,,46.77,3476.0,0,Deepak Malhotra,India,West Bengal,Male,1976-07-15,936.0,2025-07-18,N,50.0,0,1,49,41-50,Low
+1044,2525-DKRPZ,2022-02-20,Paid,2025-02-20,Basic,Annual,,,11.89,5840.0,29,Payal Pandit,India,Uttar Pradesh,Female,1987-03-19,938.0,2026-08-27,N,69.0,0,1,35,31-40,Low
+1045,9225-VPCPM,2026-02-14,Organic,2026-04-15,Basic,Monthly,2026-05-12,Switched to competitor,11.33,644.0,76,Pradeep Bose,India,Delhi,Male,1958-08-18,940.0,2026-04-03,N,24.0,1,1,67,61-70,High
+1046,8596-CKQPC,2023-09-18,Organic,2024-01-16,Standard,Monthly,,,24.03,3087.0,16,Ritu Kumar,India,Uttar Pradesh,Female,1981-12-13,941.0,2024-09-16,N,35.0,0,1,42,41-50,Low
+1047,8411-DSPPD,2020-04-21,Organic,2020-05-21,Basic,Monthly,,,9.72,3894.0,44,Nidhi Krishnan,India,Telangana,Female,1986-11-21,943.0,2025-06-30,N,83.0,0,1,33,31-40,Low
+1048,6438-BCPYK,2021-06-08,Partner,2023-06-08,Standard,Annual,,,18.25,4262.0,10,Deepika Mishra,India,Odisha,Female,1978-10-12,945.0,2022-02-03,N,6.0,0,1,43,41-50,Low
+1049,1742-PTAAN,2019-07-30,Referral,2019-12-27,Standard,Monthly,,,24.32,4210.0,19,Aarav Rao,India,Assam,Male,1996-04-13,946.0,2022-11-10,N,30.0,0,1,23,21-30,Low
+1050,6471-KCEEA,2023-08-21,Partner,2024-01-18,Basic,Monthly,,,12.66,3982.0,19,Ayaan Verma,India,Gujarat,Male,1957-05-28,,,,,0,0,66,61-70,Low
+1051,7592-ERPAD,2023-01-22,Paid,2023-06-21,Standard,Monthly,,,19.06,1542.0,29,Ishaan Pandey,India,Assam,Male,1997-04-19,,,,,0,0,26,21-30,Low
+1052,6418-BLADW,2020-11-12,Paid,2021-05-11,Standard,Monthly,2022-02-01,Not using service,17.71,673.0,60,Swati Yadav,India,Goa,Female,2004-09-23,948.0,2021-09-19,N,80.0,1,1,16,11-20,Medium
+1053,7993-HYBSA,2024-09-09,Paid,2025-01-07,Standard,Monthly,2025-12-27,Poor customer support,17.83,796.0,97,Chitra Agarwal,India,Chandigarh,Female,1960-09-12,949.0,2025-06-25,N,87.0,1,1,64,61-70,High
+1054,5681-QYPAF,2025-09-13,Paid,2026-09-13,Premium,Annual,2025-12-19,Poor customer support,46.7,537.0,95,Tanya Shah,India,Assam,Female,1985-11-06,951.0,2025-12-03,N,40.0,1,1,40,31-40,High
+1055,4806-ZYNPX,2019-05-19,Organic,2021-05-19,Premium,Annual,,,47.36,634.0,29,Aishwarya Rao,India,Jharkhand,Female,1973-08-03,,,,,0,0,46,41-50,Low
+1056,8063-DPRKH,2026-05-03,Paid,2026-12-31,Standard,Annual,,,15.58,1805.0,37,Siddharth Patel,India,Maharashtra,Male,1987-03-10,953.0,2026-08-19,N,14.0,0,1,39,31-40,Low
+1057,1867-VHDTH,2023-12-24,Paid,2024-02-22,Standard,Monthly,,,18.81,1365.0,7,Anjali Bansal,India,Haryana,Female,1959-03-10,954.0,2025-09-29,N,15.0,0,1,65,61-70,Low
+1058,7173-QDDVV,2025-03-18,Referral,2026-12-31,Basic,Annual,,,6.22,1675.0,41,Siddharth Gupta,India,Andhra Pradesh,Male,1964-06-16,957.0,2026-04-13,Y,21.0,0,1,61,61-70,Low
+1059,8165-ZDEWM,2022-03-23,Paid,2023-03-23,Basic,Annual,,,11.42,5352.0,13,Anika Menon,India,Gujarat,Female,1994-05-24,962.0,2024-11-17,N,99.0,0,1,28,21-30,Low
+1060,1396-JMYPM,2025-08-11,Trial,2026-02-07,Basic,Monthly,,,11.5,3395.0,53,Ishaan Chauhan,India,Madhya Pradesh,Male,1975-06-22,965.0,2025-10-02,Y,91.0,0,1,50,41-50,Medium
+1061,7251-EAYSC,2025-05-07,Trial,2025-09-04,Basic,Monthly,,,12.41,1369.0,41,Suresh Agarwal,India,Bihar,Male,1969-09-28,967.0,2025-12-12,N,27.0,0,1,56,51-60,Low
+1062,6869-NXYTK,2021-02-20,Paid,2021-07-20,Standard,Monthly,,,22.55,4443.0,8,Geeta Sharma,India,Telangana,Female,2002-05-08,968.0,2023-06-03,N,18.0,0,1,19,11-20,Low
+1063,7244-YMWNG,2022-11-08,Paid,2023-02-06,Standard,Monthly,,,22.63,4852.0,52,Myra Gupta,India,Chandigarh,Female,1985-01-03,970.0,2026-01-12,N,86.0,0,1,38,31-40,Medium
+1064,9040-KSLWF,2022-10-09,Paid,2023-10-09,Standard,Annual,,,16.69,4562.0,40,Vivaan Rathore,India,Goa,Male,1978-03-17,974.0,2024-06-08,N,17.0,0,1,45,41-50,Low
+1065,4255-WSMDB,2019-02-10,Paid,2022-02-10,Basic,Annual,,,12.32,2328.0,20,Rajesh Pillai,India,Goa,Male,1955-06-20,978.0,2025-10-17,N,35.0,0,1,64,61-70,Low
+1066,4902-KXYUX,2023-12-24,Paid,2024-12-24,Premium,Annual,,,34.75,3775.0,55,Vishal Das,India,Andhra Pradesh,Male,1977-03-20,981.0,2025-10-22,N,13.0,0,1,47,41-50,Medium
+1067,6974-PCCBP,2025-03-05,Referral,2025-05-04,Premium,Monthly,2025-08-15,Switched to competitor,26.65,305.0,67,Keshav Joshi,India,Odisha,Male,1962-01-02,982.0,2025-07-05,N,99.0,1,1,63,61-70,Medium
+1068,9573-RWPQY,2019-11-04,Trial,2022-11-04,Basic,Annual,,,10.34,3587.0,35,Tanya Sengupta,India,West Bengal,Female,1967-12-13,986.0,2023-06-24,Y,92.0,0,1,52,51-60,Low
+1069,7461-RBZFT,2023-08-26,Trial,2026-08-26,Premium,Annual,,,41.87,4596.0,36,Saanvi Pandit,India,Madhya Pradesh,Female,1964-11-24,987.0,2023-10-14,N,31.0,0,1,59,51-60,Low
+1070,6135-KKRAE,2024-06-05,Paid,2024-12-02,Premium,Monthly,2024-12-13,Service issue,45.82,420.0,96,Harsh Sengupta,India,Karnataka,Male,1982-05-18,990.0,2024-12-09,N,53.0,1,1,42,41-50,High
+1071,0732-PRUKU,2023-08-02,Paid,2023-11-30,Premium,Monthly,,,41.99,3798.0,7,Rekha Das,India,Assam,Female,1966-11-30,,,,,0,0,57,51-60,Low
+1072,6711-NHNLT,2019-02-04,Paid,2019-06-04,Standard,Monthly,2020-12-28,Too expensive,19.56,233.0,62,Sunil Pandey,India,Telangana,Male,1962-12-10,993.0,2019-03-20,N,3.0,1,1,56,51-60,Medium
+1073,8877-UBUSG,2024-11-28,Referral,2025-01-27,Basic,Monthly,,,12.56,5674.0,46,Sonal Verma,India,Tamil Nadu,Female,2002-09-18,1000.0,2026-05-18,Y,20.0,0,1,22,21-30,Low
+1074,8741-VLNUB,2019-01-15,Paid,2019-04-15,Premium,Monthly,2020-08-31,Not using service,34.79,684.0,91,Ananya Bansal,India,Madhya Pradesh,Female,1971-03-12,,,,,1,0,48,41-50,High
+1075,1627-TFKEF,2020-07-17,Organic,2020-11-14,Standard,Monthly,,,23.76,4121.0,55,Yamini Nair,India,Uttar Pradesh,Female,1982-07-11,,,,,0,0,38,31-40,Medium
+1076,4882-NDLEP,2022-08-01,Organic,2023-01-28,Basic,Monthly,,,7.19,2371.0,28,Anjali Das,India,Tamil Nadu,Female,1959-08-27,,,,,0,0,63,61-70,Low
+1077,6308-DJBLQ,2022-02-03,Paid,2024-02-03,Basic,Annual,,,8.78,3098.0,49,Kavya Tiwari,India,Maharashtra,Female,1991-07-23,,,,,0,0,31,31-40,Low
+1078,9088-WEKUP,2022-04-12,Organic,2025-04-12,Premium,Annual,,,30.83,4342.0,32,Myra Thakur,India,Gujarat,Female,1967-10-10,,,,,0,0,55,51-60,Low
+1079,0016-QVKWF,2020-08-03,Trial,2021-01-30,Standard,Monthly,2020-12-11,Too expensive,19.87,393.0,76,Vihaan Tiwari,India,Telangana,Male,1977-07-05,,,,,1,0,43,41-50,High
+1080,8750-UCKCN,2023-12-30,Trial,2024-03-29,Basic,Monthly,,,9.39,3103.0,34,Krishna Naidu,India,Telangana,Male,1993-10-02,,,,,0,0,30,21-30,Low
+1081,5269-LGQVL,2024-08-10,Organic,2024-09-09,Standard,Monthly,,,15.04,3841.0,36,Vijay Singh,India,Maharashtra,Male,1997-10-01,,,,,0,0,27,21-30,Low
+1082,1270-TAXQX,2024-07-26,Organic,2024-12-23,Premium,Monthly,2024-11-08,Not using service,29.16,97.0,68,Ramesh Das,India,Jharkhand,Male,1987-02-11,,,,,1,0,37,31-40,Medium
+1083,3629-ZAJXY,2020-05-03,Partner,2021-05-03,Basic,Annual,,,8.46,4929.0,9,Neha Nair,India,Jharkhand,Female,1982-03-14,,,,,0,0,38,31-40,Low
+1084,9929-GAGWN,2024-01-18,Partner,2024-05-17,Premium,Monthly,,,46.41,1623.0,32,Rahul Krishnan,India,Andhra Pradesh,Male,1999-04-27,,,,,0,0,25,21-30,Low
+1085,1065-EJUHS,2025-08-27,Trial,2026-12-31,Basic,Annual,,,10.41,1323.0,51,Neha Verma,India,Chandigarh,Female,1977-09-09,,,,,0,0,48,41-50,Medium
+1086,6666-JDXSQ,2019-11-13,Paid,2021-11-13,Basic,Annual,,,9.1,4122.0,1,Lata Chauhan,India,Karnataka,Female,1975-02-22,,,,,0,0,45,41-50,Low
+1087,5483-CUAZH,2022-10-01,Partner,2024-10-01,Standard,Annual,,,15.21,4898.0,19,Kavya Chopra,India,Gujarat,Female,1969-10-03,,,,,0,0,53,51-60,Low
+1088,5477-JHDRH,2024-03-30,Partner,2024-08-27,Standard,Monthly,2025-11-08,Switched to competitor,15.42,232.0,64,Ira Bansal,India,Andhra Pradesh,Female,1976-03-28,,,,,1,0,48,41-50,Medium
+1089,0994-BNLYC,2022-05-15,Organic,2025-05-15,Premium,Annual,,,47.95,5590.0,48,Vihaan Pandey,India,Karnataka,Male,1982-01-17,,,,,0,0,40,31-40,Low
+1090,6249-NDVPH,2023-11-14,Organic,2024-02-12,Standard,Monthly,2024-10-22,Switched to competitor,22.26,400.0,100,Sanjay Das,India,Odisha,Male,1993-05-29,,,,,1,0,30,21-30,High
+1091,1769-DAVYC,2022-05-31,Organic,2022-09-28,Standard,Monthly,,,20.63,3065.0,7,Abhishek Singh,India,Andhra Pradesh,Male,1977-12-28,,,,,0,0,44,41-50,Low
+1092,0991-EKUPS,2023-07-22,Organic,2024-01-18,Premium,Monthly,,,38.43,1583.0,53,Ritu Subramaniam,India,Chandigarh,Female,1968-01-24,,,,,0,0,55,51-60,Medium
+1093,2369-BHSTB,2025-11-17,Trial,2026-12-31,Basic,Annual,,,7.88,2731.0,41,Geeta Shah,India,Gujarat,Female,1973-01-20,,,,,0,0,53,51-60,Low
+1094,5499-VKPLF,2020-05-28,Paid,2020-06-27,Standard,Monthly,,,14.55,2651.0,36,Sanjay Gupta,India,Assam,Male,1974-09-07,,,,,0,0,46,41-50,Low
+1095,5431-ZNGNF,2019-02-08,Organic,2019-06-08,Standard,Monthly,2020-02-16,Poor customer support,16.5,761.0,84,Anil Sharma,India,Delhi,Male,1987-02-09,,,,,1,0,32,31-40,High
+1096,5896-BAGGK,2020-07-20,Paid,2020-11-17,Basic,Monthly,,,6.22,734.0,14,Yash Malhotra,India,West Bengal,Male,1985-06-27,,,,,0,0,35,31-40,Low
+1097,2248-NWDLG,2025-09-04,Organic,2025-10-04,Standard,Monthly,,,23.12,3020.0,43,Isha Chopra,India,Haryana,Female,1988-05-28,,,,,0,0,37,31-40,Low
+1098,2142-GGTNY,2020-08-30,Referral,2021-08-30,Basic,Annual,,,11.25,2845.0,25,Meera Pandit,India,Madhya Pradesh,Female,1976-12-09,,,,,0,0,44,41-50,Low
+1099,0872-WJESU,2019-09-27,Paid,2019-10-27,Premium,Monthly,,,39.71,838.0,40,Sneha Nair,India,Assam,Female,1960-10-26,,,,,0,0,59,51-60,Low
+1100,6125-SYRYR,2024-11-06,Paid,2026-11-06,Premium,Annual,,,31.21,2535.0,47,Divya Subramaniam,India,Bihar,Female,2007-05-23,,,,,0,0,17,11-20,Low
+1101,6178-UFMJT,2024-01-11,Partner,2024-07-09,Basic,Monthly,,,10.45,3718.0,39,Krishna Nair,India,Kerala,Male,1994-11-17,,,,,0,0,29,21-30,Low
+1102,7391-QPPMR,2023-08-29,Trial,2023-11-27,Standard,Monthly,,,24.27,462.0,38,Divya Das,India,Maharashtra,Female,1971-02-10,,,,,0,0,53,51-60,Low
+1103,1280-JHDDC,2020-11-22,Paid,2021-05-21,Standard,Monthly,,,17.3,2957.0,25,Diya Rathore,India,Gujarat,Female,1984-12-10,,,,,0,0,36,31-40,Low
+1104,8898-JAKKM,2019-02-13,Paid,2020-02-13,Basic,Annual,,,6.1,755.0,40,Nisha Subramaniam,India,Maharashtra,Female,1997-05-06,,,,,0,0,22,21-30,Low
+1105,8451-UTQZQ,2023-11-06,Paid,2024-02-04,Standard,Monthly,,,23.24,4422.0,28,Myra Agarwal,India,Gujarat,Female,1993-06-20,,,,,0,0,30,21-30,Low
+1106,2102-KZARX,2024-06-25,Paid,2024-07-25,Standard,Monthly,,,16.85,1742.0,18,Rekha Desai,India,Madhya Pradesh,Female,1993-03-11,,,,,0,0,31,31-40,Low
+1107,0527-EELUW,2026-03-11,Paid,2026-09-07,Standard,Monthly,,,15.57,3846.0,47,Kiran Joshi,India,Bihar,Female,1960-09-18,,,,,0,0,65,61-70,Low
+1108,4991-CFDXT,2023-12-20,Trial,2024-05-18,Premium,Monthly,2024-09-11,Other,39.69,459.0,96,Aditya Pandit,India,Assam,Male,1957-05-29,,,,,1,0,67,61-70,High
+1109,1146-QBMSA,2025-08-03,Paid,2025-12-31,Basic,Monthly,,,11.44,5943.0,50,Vikram Sengupta,India,Bihar,Male,1969-02-01,,,,,0,0,57,51-60,Medium
+1110,3369-KPYXR,2022-11-21,Paid,2023-11-21,Standard,Annual,,,17.67,4485.0,51,Raghav Krishnan,India,Kerala,Male,2007-09-15,,,,,0,0,15,11-20,Medium
+1111,6541-VHSLU,2020-02-08,Partner,2022-02-08,Basic,Annual,,,7.62,5864.0,53,Isha Mishra,India,Goa,Female,1958-07-04,,,,,0,0,62,61-70,Medium
+1112,2869-PHFVZ,2021-05-02,Paid,2021-07-01,Premium,Monthly,2024-01-31,Service issue,28.43,698.0,61,Isha Das,India,West Bengal,Female,2006-01-05,,,,,1,0,15,11-20,Medium
+1113,1093-YZZGR,2025-05-23,Referral,2026-05-23,Basic,Annual,,,7.09,2955.0,2,Varsha Naidu,India,Tamil Nadu,Female,1988-01-30,,,,,0,0,37,31-40,Low
+1114,8291-BQACW,2019-10-25,Paid,2020-10-25,Basic,Annual,,,8.28,3295.0,5,Kiran Bansal,India,Bihar,Female,1972-06-10,,,,,0,0,47,41-50,Low
+1115,1117-CTXHY,2022-12-31,Paid,2023-03-31,Premium,Monthly,,,40.1,728.0,44,Anika Tiwari,India,Telangana,Female,1969-06-23,,,,,0,0,54,51-60,Low
+1116,6403-FCXAX,2022-01-24,Paid,2024-01-24,Premium,Annual,,,42.19,944.0,4,Navya Pandey,India,Haryana,Female,1970-12-18,,,,,0,0,51,51-60,Low
+1117,1684-NYKQB,2025-08-28,Organic,2025-11-26,Basic,Monthly,,,6.6,591.0,51,Vihaan Das,India,Gujarat,Male,1977-05-27,,,,,0,0,48,41-50,Medium
+1118,5523-GXXCH,2024-06-14,Organic,2024-12-11,Basic,Monthly,,,7.74,474.0,22,Sunil Rao,India,West Bengal,Male,1958-12-13,,,,,0,0,66,61-70,Low
+1119,8875-NPDHG,2022-12-01,Organic,2024-12-01,Basic,Annual,,,10.27,5350.0,4,Ramesh Agarwal,India,West Bengal,Male,1956-05-06,,,,,0,0,67,61-70,Low
+1120,4562-WVMBC,2024-04-10,Paid,2026-04-10,Standard,Annual,,,17.44,3840.0,25,Naveen Pillai,India,Jharkhand,Male,1999-10-27,,,,,0,0,24,21-30,Low
+1121,6366-XYELF,2021-08-02,Paid,2023-08-02,Standard,Annual,,,24.78,3827.0,53,Nidhi Tiwari,India,Delhi,Female,1985-01-23,,,,,0,0,37,31-40,Medium
+1122,0217-HAVDK,2020-05-07,Organic,2023-05-07,Basic,Annual,,,10.69,3843.0,45,Rakesh Bose,India,Rajasthan,Male,1962-02-14,,,,,0,0,58,51-60,Low
+1123,0621-HZVQZ,2021-08-30,Paid,2022-08-30,Basic,Annual,,,9.2,1560.0,18,Anika Kapoor,India,Punjab,Female,1958-07-21,,,,,0,0,63,61-70,Low
+1124,3372-TBXHX,2019-08-13,Paid,2020-02-09,Standard,Monthly,,,22.89,3948.0,38,Raghav Das,India,Andhra Pradesh,Male,1983-11-09,,,,,0,0,36,31-40,Low
+1125,2318-GECFU,2024-03-01,Partner,2026-03-01,Basic,Annual,2025-08-30,Too expensive,10.84,88.0,97,Karthik Thakur,India,Delhi,Male,1993-03-29,,,,,1,0,31,31-40,High
+1126,4675-UQWGJ,2020-03-23,Paid,2021-03-23,Premium,Annual,,,36.01,2073.0,46,Myra Mukherjee,India,Bihar,Female,1988-11-20,,,,,0,0,31,31-40,Low
+1127,7897-ANPCK,2025-09-23,Paid,2026-02-20,Premium,Monthly,,,39.36,2602.0,2,Siddharth Mehta,India,Telangana,Male,1989-02-17,,,,,0,0,37,31-40,Low
+1128,2238-YRGEG,2023-05-20,Organic,2023-09-17,Basic,Monthly,,,9.65,4688.0,30,Aarav Thakur,India,Haryana,Male,1999-02-02,,,,,0,0,24,21-30,Low
+1129,9638-CPBDN,2022-12-14,Paid,2023-05-13,Premium,Monthly,2024-12-30,Other,36.08,726.0,62,Aryan Bose,India,Telangana,Male,1986-04-10,,,,,1,0,37,31-40,Medium
+1130,0565-MWYXA,2025-08-18,Paid,2026-08-18,Premium,Annual,,,38.86,4592.0,11,Manish Pandit,India,Odisha,Male,1968-03-21,,,,,0,0,57,51-60,Low
+1131,6297-NYUCS,2019-05-21,Paid,2020-05-21,Premium,Annual,,,29.75,1219.0,35,Pradeep Rao,India,Madhya Pradesh,Male,1977-09-08,,,,,0,0,42,41-50,Low
+1132,1456-DWUME,2022-04-04,Paid,2022-07-03,Standard,Monthly,2025-03-25,Switched to competitor,17.86,596.0,61,Urvashi Joshi,India,Bihar,Female,1982-08-22,,,,,1,0,40,31-40,Medium
+1133,4724-ZPFFM,2021-06-28,Paid,2021-11-25,Standard,Monthly,,,23.72,3341.0,36,Vishal Singh,India,Gujarat,Male,1998-08-23,,,,,0,0,23,21-30,Low
+1134,2993-GJPQW,2020-02-27,Organic,2020-06-26,Basic,Monthly,,,9.83,2431.0,5,Vinay Rao,India,Delhi,Male,1981-04-19,,,,,0,0,39,31-40,Low
+1135,7949-XDABJ,2023-05-07,Referral,2026-05-07,Standard,Annual,,,18.16,3352.0,28,Sunil Subramaniam,India,Karnataka,Male,1963-09-09,,,,,0,0,60,51-60,Low
+1136,7753-LVPLM,2019-10-08,Partner,2020-02-05,Basic,Monthly,,,6.7,672.0,27,Meera Chopra,India,Haryana,Female,1990-10-01,,,,,0,0,29,21-30,Low
+1137,6583-ZEAVD,2022-12-09,Organic,2024-12-09,Standard,Annual,,,16.27,1032.0,48,Rashmi Chopra,India,Haryana,Female,1995-07-18,,,,,0,0,27,21-30,Low
+1138,5278-AWMBZ,2024-08-25,Paid,2024-10-24,Standard,Monthly,2024-10-27,Switched to competitor,20.46,591.0,82,Payal Pandey,India,Rajasthan,Female,1998-06-21,,,,,1,0,26,21-30,High
+1139,4814-VGYES,2022-11-18,Paid,2023-05-17,Standard,Monthly,,,22.47,2282.0,50,Krishna Yadav,India,Delhi,Male,1982-01-13,,,,,0,0,41,41-50,Medium
+1140,3946-HGFXY,2019-03-17,Organic,2019-04-16,Basic,Monthly,,,9.89,3705.0,10,Reyansh Bose,India,Maharashtra,Male,1969-05-17,,,,,0,0,50,41-50,Low
+1141,8757-WZRCY,2020-03-17,Paid,2021-03-17,Standard,Annual,2024-01-07,Too expensive,14.13,433.0,68,Kavita Krishnan,India,Jharkhand,Female,1960-10-20,,,,,1,0,59,51-60,Medium
+1142,4767-CDCLZ,2022-04-03,Paid,2022-08-31,Basic,Monthly,,,8.38,598.0,32,Rakesh Menon,India,Goa,Male,1987-12-29,,,,,0,0,34,31-40,Low
+1143,3110-NPLMX,2026-06-20,Referral,2026-12-31,Premium,Annual,,,39.62,2240.0,29,Nikhil Pandit,India,Goa,Male,1974-12-06,,,,,0,0,52,51-60,Low
+1144,8189-XQEVK,2024-11-01,Referral,2024-12-01,Basic,Monthly,2025-09-15,Switched to competitor,8.73,275.0,93,Rakesh Gupta,India,Jharkhand,Male,1983-09-21,,,,,1,0,41,41-50,High
+1145,6171-BLEYG,2019-09-01,Paid,2020-01-29,Standard,Monthly,,,17.43,445.0,14,Vijay Patel,India,West Bengal,Male,1998-09-26,,,,,0,0,21,21-30,Low
+1146,7756-MNNCS,2024-07-07,Organic,2024-12-04,Standard,Monthly,,,24.9,2873.0,26,Shreya Shah,India,Chandigarh,Female,1990-04-30,,,,,0,0,34,31-40,Low
+1147,7239-YRKEG,2022-01-16,Paid,2022-03-17,Basic,Monthly,,,9.47,5261.0,33,Rakesh Shah,India,Maharashtra,Male,1987-07-01,,,,,0,0,35,31-40,Low
+1148,7763-FBDSW,2023-03-27,Paid,2023-07-25,Basic,Monthly,2024-03-30,Switched to competitor,8.28,88.0,75,Deepika Bose,India,Uttar Pradesh,Female,1991-03-31,,,,,1,0,32,31-40,High
+1149,6150-YXXCQ,2020-06-15,Paid,2020-10-13,Premium,Monthly,,,35.16,1136.0,54,Divya Pandey,India,Haryana,Female,1956-01-16,,,,,0,0,64,61-70,Medium
+1150,9381-RJYZD,2021-01-25,Paid,2021-04-25,Standard,Monthly,2024-01-17,Other,22.09,840.0,70,Ajay Tiwari,India,Madhya Pradesh,Male,1981-10-07,,,,,1,0,39,31-40,High
+1151,0323-NTTSR,2024-09-07,Partner,2024-10-07,Basic,Monthly,,,8.81,1240.0,51,Nikhil Subramaniam,India,Chandigarh,Male,1966-02-18,,,,,0,0,59,51-60,Medium
+1152,5149-DBEUG,2021-01-06,Paid,2021-04-06,Basic,Monthly,,,8.05,575.0,39,Sai Naidu,India,Telangana,Male,1958-02-21,,,,,0,0,63,61-70,Low
+1153,0001-HKBSK,2025-07-18,Referral,2025-11-15,Standard,Monthly,,,17.58,4819.0,20,Anika Krishnan,India,Assam,Female,1983-01-28,,,,,0,0,42,41-50,Low
+1154,0732-HBGEK,2022-02-28,Paid,2022-05-29,Basic,Monthly,,,11.58,2356.0,9,Krishna Pandit,India,Chandigarh,Male,1974-05-20,,,,,0,0,48,41-50,Low
+1155,6255-WFNQC,2025-01-07,Referral,2026-12-31,Basic,Annual,,,7.7,2759.0,4,Payal Bose,India,Uttar Pradesh,Female,2003-01-29,,,,,0,0,22,21-30,Low
+1156,6876-ELPNA,2023-02-12,Paid,2026-02-12,Premium,Annual,2024-01-20,Poor customer support,46.91,696.0,84,Arjun Kapoor,India,Tamil Nadu,Male,2002-09-06,,,,,1,0,20,11-20,High
+1157,4476-EHJAD,2025-08-02,Partner,2026-08-02,Premium,Annual,,,40.49,352.0,26,Kavita Das,India,Tamil Nadu,Female,1966-01-29,,,,,0,0,60,51-60,Low
+1158,9374-KTJVD,2023-04-19,Paid,2026-04-19,Basic,Annual,,,11.51,1316.0,47,Rohan Agarwal,India,Bihar,Male,1971-03-18,,,,,0,0,52,51-60,Low
+1159,4244-AXSYE,2020-02-22,Partner,2022-02-22,Premium,Annual,,,43.6,5209.0,43,Ishaan Das,India,Goa,Male,1978-12-27,,,,,0,0,41,41-50,Low
+1160,5799-QSKJP,2020-08-08,Partner,2020-10-07,Standard,Monthly,,,20.06,2105.0,2,Sandeep Nair,India,Kerala,Male,1991-06-21,,,,,0,0,29,21-30,Low
+1161,1385-ZKTRA,2021-12-08,Paid,2022-12-08,Basic,Annual,,,9.6,4906.0,54,Payal Thakur,India,Uttar Pradesh,Female,1998-01-12,,,,,0,0,24,21-30,Medium
+1162,0119-YPYTZ,2026-02-07,Paid,2026-12-31,Basic,Annual,,,12.44,2879.0,10,Sunita Chauhan,India,Jharkhand,Female,1958-10-19,,,,,0,0,67,61-70,Low
+1163,2184-SMBPR,2026-02-18,Paid,2026-12-31,Premium,Annual,2026-06-20,Poor customer support,33.42,636.0,60,Priya Mukherjee,India,Tamil Nadu,Female,1985-04-27,,,,,1,0,41,41-50,Medium
+1164,0036-ZWUNG,2022-01-30,Organic,2024-01-30,Premium,Annual,,,36.87,4058.0,32,Madhuri Thakur,India,Karnataka,Female,1996-07-17,,,,,0,0,26,21-30,Low
+1165,5798-DAMZF,2024-11-26,Paid,2025-02-24,Basic,Monthly,,,11.66,2526.0,24,Geeta Sharma,India,Tamil Nadu,Female,1993-08-25,,,,,0,0,31,31-40,Low
+1166,0113-EXJHR,2022-07-13,Referral,2022-11-10,Premium,Monthly,,,33.86,747.0,50,Lata Pillai,India,Haryana,Female,1993-06-05,,,,,0,0,29,21-30,Medium
+1167,7110-AMYGD,2024-02-07,Organic,2024-06-06,Basic,Monthly,,,12.94,5439.0,39,Amit Gupta,India,Uttar Pradesh,Male,1990-05-25,,,,,0,0,34,31-40,Low
+1168,8012-TRXYE,2025-07-06,Organic,2025-09-04,Premium,Monthly,,,40.49,2173.0,6,Varsha Ghosh,India,Andhra Pradesh,Female,1989-11-19,,,,,0,0,36,31-40,Low
+1169,3874-BXLPV,2023-05-30,Organic,2023-11-26,Premium,Monthly,,,30.45,880.0,19,Pradeep Tiwari,India,Kerala,Male,1980-04-26,,,,,0,0,43,41-50,Low
+1170,4606-DJYHX,2019-01-18,Partner,2019-05-18,Basic,Monthly,,,11.3,5591.0,4,Neha Tiwari,India,Tamil Nadu,Female,2000-01-25,,,,,0,0,19,11-20,Low
+1171,4486-GEPAV,2025-03-29,Paid,2026-12-31,Standard,Annual,,,16.65,519.0,5,Sai Patel,India,Bihar,Male,1991-07-17,,,,,0,0,34,31-40,Low
+1172,6997-WBKDJ,2024-12-26,Organic,2025-02-24,Standard,Monthly,,,22.64,606.0,25,Divya Chatterjee,India,Madhya Pradesh,Female,1977-02-26,,,,,0,0,48,41-50,Low
+1173,7734-JVDPF,2023-05-11,Trial,2023-10-08,Basic,Monthly,,,8.02,2760.0,38,Radhika Mukherjee,India,Punjab,Female,1982-04-22,,,,,0,0,41,41-50,Low
+1174,5920-ZUSVM,2025-04-18,Paid,2025-07-17,Standard,Monthly,,,19.7,868.0,33,Manoj Kapoor,India,Gujarat,Male,2007-06-04,,,,,0,0,18,11-20,Low
+1175,3120-GYQDC,2024-03-29,Paid,2024-04-28,Standard,Monthly,,,15.16,4138.0,29,Ritu Tiwari,India,Gujarat,Female,2002-11-13,,,,,0,0,21,21-30,Low
+1176,5996-QWYDP,2019-01-17,Organic,2020-01-17,Standard,Annual,,,22.41,5003.0,20,Keshav Sengupta,India,Andhra Pradesh,Male,2000-03-15,,,,,0,0,19,11-20,Low
+1177,3116-ZNRXT,2022-06-23,Referral,2024-06-23,Premium,Annual,,,48.41,905.0,7,Rohan Pandey,India,Andhra Pradesh,Male,1989-06-18,,,,,0,0,33,31-40,Low
+1178,9369-GUYAS,2023-12-17,Paid,2024-01-16,Standard,Monthly,,,14.56,1694.0,1,Sonal Chauhan,India,Telangana,Female,1982-03-22,,,,,0,0,42,41-50,Low
+1179,3902-KBWEJ,2020-01-16,Paid,2022-01-16,Basic,Annual,,,11.66,3967.0,27,Rahul Patel,India,Rajasthan,Male,1973-11-02,,,,,0,0,46,41-50,Low
+1180,8999-JZEPV,2022-02-18,Paid,2025-02-18,Basic,Annual,,,8.11,3105.0,44,Meera Patel,India,Maharashtra,Female,1986-11-22,,,,,0,0,35,31-40,Low
+1181,9556-DZZYN,2023-03-13,Trial,2026-03-13,Basic,Annual,2024-06-17,Other,9.35,418.0,74,Lakshmi Pandit,India,Chandigarh,Female,1973-06-30,,,,,1,0,50,41-50,High
+1182,7109-MERCR,2021-09-25,Trial,2024-09-25,Premium,Annual,,,33.46,1775.0,37,Sanjay Mehta,India,West Bengal,Male,1971-12-11,,,,,0,0,50,41-50,Low
+1183,6458-XVGCE,2023-04-25,Organic,2023-05-25,Premium,Monthly,,,35.25,4212.0,39,Pradeep Chopra,India,Odisha,Male,1991-02-10,,,,,0,0,32,31-40,Low
+1184,1802-AWBEH,2026-04-06,Partner,2026-12-31,Basic,Annual,,,7.51,3802.0,48,Rahul Kumar,India,Jharkhand,Male,1956-03-18,,,,,0,0,70,61-70,Low
+1185,9221-QFKLR,2020-09-25,Paid,2021-09-25,Standard,Annual,,,24.21,4888.0,51,Karthik Patel,India,Chandigarh,Male,1978-12-30,,,,,0,0,42,41-50,Medium
+1186,6804-EAHAH,2022-11-30,Partner,2023-04-29,Basic,Monthly,2025-09-06,Other,10.62,616.0,84,Kiran Kumar,India,Haryana,Female,1980-09-25,,,,,1,0,42,41-50,High
+1187,4617-MCVLD,2024-01-31,Organic,2024-03-31,Basic,Monthly,,,12.47,1318.0,12,Myra Gupta,India,Jharkhand,Female,1968-07-22,,,,,0,0,56,51-60,Low
+1188,4940-VKMDJ,2024-05-26,Trial,2026-05-26,Basic,Annual,,,9.0,1129.0,41,Nidhi Mukherjee,India,Telangana,Female,1961-11-07,,,,,0,0,63,61-70,Low
+1189,7838-CDUPZ,2024-05-10,Partner,2024-11-06,Premium,Monthly,2024-10-26,Service issue,29.0,452.0,61,Navya Nair,India,Punjab,Female,1966-06-11,,,,,1,0,58,51-60,Medium
+1190,6782-VWLEW,2025-08-03,Referral,2026-12-31,Basic,Annual,,,11.24,5154.0,13,Ajay Sengupta,India,Chandigarh,Male,1999-08-07,,,,,0,0,26,21-30,Low
+1191,6911-SUYZH,2024-12-31,Organic,2025-06-29,Standard,Monthly,,,17.25,4281.0,23,Karthik Mukherjee,India,Maharashtra,Male,1973-03-28,,,,,0,0,52,51-60,Low
+1192,2283-KQETP,2019-01-21,Partner,2020-01-21,Basic,Annual,,,7.74,1111.0,53,Dev Desai,India,Karnataka,Male,1967-05-13,,,,,0,0,52,51-60,Medium
+1193,1736-XUCRV,2025-01-24,Trial,2026-12-31,Basic,Annual,,,12.74,5612.0,38,Vivaan Kumar,India,Haryana,Male,1967-09-04,,,,,0,0,57,51-60,Low
+1194,2295-ZSYKR,2019-08-13,Paid,2019-09-12,Standard,Monthly,2020-02-23,Too expensive,24.82,135.0,63,Tanya Bansal,India,Odisha,Female,1956-03-08,,,,,1,0,63,61-70,Medium
+1195,6494-PXQTY,2022-08-31,Paid,2025-08-31,Standard,Annual,,,19.05,5407.0,16,Chitra Thakur,India,Kerala,Female,1975-05-24,,,,,0,0,47,41-50,Low
+1196,6560-VBHNF,2026-01-11,Referral,2026-02-10,Basic,Monthly,,,7.61,4494.0,35,Vijay Mishra,India,Assam,Male,1983-02-05,,,,,0,0,43,41-50,Low
+1197,1710-CMVLA,2020-07-27,Organic,2022-07-27,Basic,Annual,,,10.65,719.0,39,Amit Rao,India,Chandigarh,Male,1964-07-20,,,,,0,0,56,51-60,Low
+1198,0530-HJCUU,2025-04-15,Partner,2025-05-15,Standard,Monthly,2026-04-20,Service issue,24.24,177.0,93,Abhishek Tiwari,India,Karnataka,Male,1959-04-24,,,,,1,0,66,61-70,High
+1199,5152-NZMEY,2024-07-15,Organic,2025-01-11,Premium,Monthly,,,41.06,3272.0,54,Suresh Sengupta,India,Andhra Pradesh,Male,1964-01-23,,,,,0,0,60,51-60,Medium
+1200,0612-KFEXQ,2022-07-22,Organic,2022-12-19,Basic,Monthly,,,12.9,471.0,8,Vinay Nair,India,Rajasthan,Male,1974-05-07,,,,,0,0,48,41-50,Low
